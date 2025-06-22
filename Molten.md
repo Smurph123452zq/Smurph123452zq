@@ -28,6 +28,11 @@ Molten beings vary depending on the depth of their corruption. Some retain **hum
 
 Molten do not feel pain or fear. They attack **relentlessly, spreading flame wherever they tread**. Some **burn out quickly in violent bursts**, while others smolder slowly, enduring strikes that would fell mortal warriors. Their presence alone **warps the battlefield**, causing metal to soften, wood to ignite, and the air to shimmer with heat.
 
+### Resources and Harvesting
+
+- **Molten Ash**: Fine powder collected from cooled remains. Used to craft [[Magical Resources#Pyric Steel]] or brew potions that grant resistance to cold damage for 10 minutes.
+- **Ember Core**: Glowing shard extracted from a Molten's center using rune-etched tongs. A weapon socketed with it deals an extra 1d6 fire damage once per day and keeps the bearer warm in freezing climates.
+
 ## Related Notes
 - [[Ashqua]]
 - [[The Tale of the Shattering]]
