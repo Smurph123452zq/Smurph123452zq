@@ -31,6 +31,11 @@ The most ancient among them are **nothing but void and frost**, faceless specter
 Shades **do not march—they drift, they whisper, they strike from the mist**. Their battles are not **raging infernos**, but **cold, methodical engagements** where the air itself turns against their enemies. They **sap heat, extinguish flames, and drain the will to fight**, their presence alone enough to frost weapons and still beating hearts.
 
 While [[Molten]] charge with reckless fury, Shades prefer to **isolate, weaken, and consume**. A battlefield overtaken by Shades is eerily **silent**, save for the crackling of ice and the distant echoes of the dead.
+### Resources and Harvesting
+
+- **Shade Essence**: Captured using enchanted crystals as the Shade dissipates. Forms [[Magical Resources#Frostbloom Crystal]] or brews potions that grant invisibility in dim light for 1 minute (once per long rest).
+- **Frozen Tears**: Small icy beads collected from battlefields. Worn as charms, they grant resistance to fire damage for one round after taking cold damage.
+
 
 ## Related Notes
 - [[Nerrath]]
