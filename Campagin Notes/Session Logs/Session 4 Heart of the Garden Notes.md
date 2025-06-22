@@ -3,6 +3,11 @@ Session 4: Heart of the Garden
 Current Situation
 The party has defeated the spiderdragon before it could reach the deepest part of the Garden of Bones shrine. The lair still pulses with molten energy and unsettling whispers. The heroes stand at the threshold of the corrupted heart, with a chance to uncover the source of Magda's troubles.
 
+Evidence suggests the Heartstone channels molten corruption to the dragon farms, creating ripple effects across [[Magda]]:
+* Minor mutations in farm animals.
+* Environmental blight warping crops and plant life.
+* Disturbing nightmares and growing paranoia among townsfolk.
+* Brief temporal distortions near the farms.
 Session Goal
 * Explore the remaining passages of the shrine and reach the heart chamber.
 * Confront any lingering guardians or traps protecting the molten altar.
@@ -31,7 +36,14 @@ Scene Breakdown
      * Destroy the Heartstone: Requires concentrated effort (skill checks or direct attacks) and could trigger a violent eruption—Dex saves to avoid backlash.
      * Remove/Seal It: Experiment with magic or tools to extract the Heartstone, potentially using runes discovered in earlier sessions. This may stabilize the area but draws attention from unknown forces.
      * Leave It Alone: Could be used later or studied by Magda's Lorekeepers.
-   * Provide flavorful loot: shards of obsidian worth modest coin, the obsidian tablet, and salvageable molten glands from the effigy.
+    * Provide flavorful loot: shards of obsidian worth modest coin, the obsidian tablet, and salvageable molten glands from the effigy.
+
+Object Lore & Player Leads
+* **Heartstone Shards:** Fragments of the altar hold lingering molten energy. They could be forged into potent weapons or studied for clues about [[Ashqua]].
+* **Obsidian Tablet:** Broken lines reference "nurturing the garden." Matching pieces may surface in [[Iheen's Grand Library]].
+* **Molten Glands:** Harvested from the effigy or warped beasts. Alchemists in [[Magda]] or the [[Stonecarvers’ Guild]] might pay dearly.
+* **Spiderdragon Remains:** Venom sacs and fangs fetch a good price or form the basis for unique poisons.
+* **Fused Bone Relics:** Bones fused with obsidian hint at draconic shrines predating the town; investigating them could reveal hidden history.
 
 Closing Questions for Players
 * How does confronting the Heartstone affect your character's view of the corruption in Magda?
