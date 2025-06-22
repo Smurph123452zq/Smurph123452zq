@@ -1,0 +1,1 @@
+how should i incorporate this into my notes [[Ashqua]]the goddess of the sun and main over arching villain of [[The Shattered Isles]] 10 years ago burn a significant amount of her light/divine essence to take control of all citizens in the [[New Solar Republic]] turning them into her [[Molten]] she used this army to attempt to destroy the [[Moonlight Monarchy]] but failed

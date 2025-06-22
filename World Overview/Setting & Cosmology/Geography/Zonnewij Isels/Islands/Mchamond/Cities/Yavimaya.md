@@ -1,0 +1,1 @@
+World tree Survived [[The Tale of the Shattering|The Shattering]] is now sick after [[Moonfall]]  and only has a tribe of goblins and a small conclave of spore druids trying to help it

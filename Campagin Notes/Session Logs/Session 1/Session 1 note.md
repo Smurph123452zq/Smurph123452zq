@@ -1,0 +1,1 @@
+chat with eelder brynar annd old man hemlock oifferd party 25 gp per mutated create ear recoverd

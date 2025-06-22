@@ -1,0 +1,1 @@
+Npc running in the [[Glimmering Grotto]]
