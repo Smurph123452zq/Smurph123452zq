@@ -7,6 +7,11 @@ As the conflict escalated, [[Nerrath]] saw the true cost of her fight. [[Ashqua]
 
 In this time of desperation, [[The Lunar Pact]] was forged—a fragile alliance between Nerrath, the dragons, and mortals. Together, they sought to end the war before it consumed everything.
 
+### Major Battles
+- **Siege of [[Dawnspire]]** – [[Ashqua]]'s [[Molten]] legions tried to crush Nerrath's seat of power early in the war. Though the surrounding isles were scorched, the fortress held.
+- **Battle of the Frozen Vale** – The first mass deployment of [[Shade]]s turned a lush valley into an icy wasteland, forcing Ashqua's forces into retreat and proving the strength of [[Lunar Dominion]].
+- **The Final Eclipse** – The climactic confrontation at the heart of [[The Shattered Isles]]. Here Nerrath sacrificed herself, sealing Ashqua within the [[Dyson Sphere]] and bringing the war to a close.
+
 [[The Final Eclipse]]
 The battle for [[The Shattered Isles]] reached its zenith. [[Ashqua]]'s [[Molten]] armies clashed with [[Nerrath]]'s [[Shade]]—spectral warriors of ice and shadow. The battlefield was a stark contrast: the [[Molten]], radiant and fierce, against the [[Shade]]s, ethereal and cold, their presence sapping heat from the earth.
 
