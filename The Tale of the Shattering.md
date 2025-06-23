@@ -18,8 +18,13 @@ From this fog, the first [[Shade]] emerged—the spirits of fallen Lunar warrior
 
 For centuries, the battle raged. The land itself shattered beneath the warring gods, breaking into scattered isles adrift in the void. The war is forgotten by most, but its scars remain. This is the true origin of light and darkness, the eternal struggle between sun and moon.
 
+### Legacy of the Shattering
+The broken world eventually settled into drifting archipelagos now known as [[The Shattered Isles]]. Survivors rallied around new banners: those loyal to [[Nerrath]] founded the [[Moonlight Monarchy]], hoping to restore balance, while zealots of [[Ashqua]] formed the [[New Solar Republic]] to reclaim her lost glory. Their opposing ideologies laid the groundwork for future strife—including events like [[Moonfall]] and [[The Molten War]].
+
 ## Related Notes
+- [[Moonlight Monarchy]]
 - [[Nerrath]]
+- [[New Solar Republic]]
 
 ## Backlinks
 - [[Ashqua]]
