@@ -4,7 +4,7 @@ The Shattered Isles are contained within a titanic Dyson Sphere. Most islands dr
 
 ### Regions
 1. [[Moonlight Monarchy]] – Twilight forests and fortified keeps where Nerrath's followers guard ancient lunar secrets.
-2. [[New Solar Republic]] – Radiant cities devoted to Ashqua, forging weapons of conquest beneath the unrelenting sun.
+2. [[New Solar Republic]] – Once radiant cities devoted to Ashqua; now a corrupted ghost land after its populace perished in [[The Molten War]].
 3. [[Zonnewij Isels]] – A once-prosperous realm now tainted by Moonfall, rife with warped creatures and unstable magic.
 4. [[Gealaí Enclave]] – Verdant islands shaped by druidic traditions and dragonkin, their architecture woven into nature.
 5. [[United Mortal Pact]] – A coalition of diverse peoples united for survival after [[The Lunar Pact]].
@@ -16,6 +16,7 @@ This world currently reveres two gods:
 - [[Nerrath]] – Goddess of the Moon
 
 ### Major Events
-[[The Tale of the Shattering]]
-[[Moonfall]]
+[[The Tale of the Shattering]]  
+[[Moonfall]]  
+[[The Molten War]]  
 [[Player Characters Season 2]]
