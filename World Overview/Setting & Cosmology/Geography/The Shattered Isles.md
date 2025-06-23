@@ -1,6 +1,6 @@
 tags: Shattered, Isles, Dyson Sphere, Nations, Ashqua, Nerrath, Moonfall, Bad Lands
 
-The Shattered Isles are contained within a titanic Dyson Sphere. Most islands drift in stable regions held by five great nations.
+The Shattered Isles are contained within a titanic [[Dyson Sphere]]. Most islands drift in stable regions held by five great nations.
 
 ### Regions
 1. [[Moonlight Monarchy]] – Twilight forests and fortified keeps where Nerrath's followers guard ancient lunar secrets.
