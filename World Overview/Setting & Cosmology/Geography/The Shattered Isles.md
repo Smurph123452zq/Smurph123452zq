@@ -16,7 +16,7 @@ This world currently reveres two gods:
 - [[Nerrath]] – Goddess of the Moon
 
 ### Major Events
-[[The Tale of the Shattering]]
-[[Moonfall]]
-[[The Molten War]]
+[[The Tale of the Shattering]]  
+[[Moonfall]]  
+[[The Molten War]]  
 [[Player Characters Season 2]]
