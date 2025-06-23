@@ -1,8 +1,8 @@
 # To Do List
 
-- Expand the lore in [[The Tale of the Shattering]]
-- Detail the major battles of [[The Eclipse Wars]]
-- Describe each region within the [[Shattered Isles]]
+- [x] Expand the lore in [[The Tale of the Shattering]]
+- [x] Detail the major battles of [[The Eclipse Wars]]
+- [x] Describe each region within the [[Shattered Isles]]
 - Flesh out entries for prominent [[NPCs & Factions]]
 - Build encounter tables for [[Monsters & Encounters]]
 - Add background for the [[Moonlight Monarchy]] and [[New Solar Republic]]

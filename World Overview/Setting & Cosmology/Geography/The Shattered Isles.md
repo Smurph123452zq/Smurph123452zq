@@ -1,23 +1,22 @@
-tags: Shattered, Isles, Dyson, Sphere, Nations, Ashqua, Nerrath, Moonfall, Bad, Lands
+tags: Shattered, Isles, Dyson Sphere, Nations, Ashqua, Nerrath, Moonfall, Bad Lands
 
-The Shattered Isles a Dyson Sphere
-x
-The Shattered isles is comprised of five Nations with stable Positions
-### Nations
-1. [[Moonlight Monarchy]]
-2. [[New Solar Republic]]
-3. [[Zonnewij Isels]]
-4. [[Gealaí Enclave]]
-5. [[United Mortal Pact]]
+The Shattered Isles are contained within a titanic Dyson Sphere. Most islands drift in stable regions held by five great nations.
 
-There are additional islands with out stable locations this is know as the [[Bad Lands]]
+### Regions
+1. [[Moonlight Monarchy]] – Twilight forests and fortified keeps where Nerrath's followers guard ancient lunar secrets.
+2. [[New Solar Republic]] – Once radiant cities devoted to Ashqua; now a corrupted ghost land after its populace perished in [[The Molten War]].
+3. [[Zonnewij Isels]] – A once-prosperous realm now tainted by Moonfall, rife with warped creatures and unstable magic.
+4. [[Gealaí Enclave]] – Verdant islands shaped by druidic traditions and dragonkin, their architecture woven into nature.
+5. [[United Mortal Pact]] – A coalition of diverse peoples united for survival after [[The Lunar Pact]].
 
-This world Currently Has 2 Gods
-6. [[Ashqua]] Goddess of the Sun
-7. [[Nerrath]] Goddess of the Moon
+Other islands lacking fixed positions are collectively known as the [[Bad Lands]].
 
+This world currently reveres two gods:
+- [[Ashqua]] – Goddess of the Sun
+- [[Nerrath]] – Goddess of the Moon
 
-Major Events
+### Major Events
 [[The Tale of the Shattering]]
 [[Moonfall]]
+[[The Molten War]]
 [[Player Characters Season 2]]
