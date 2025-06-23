@@ -6,23 +6,22 @@ Approximately a decade after [[Moonfall]]
 
 ## Summary
 
-As [[Ashqua]]'s prison waned, the [[New Solar Republic]] declared war on the [[Moonlight Monarchy]].
-For ten years her whispers twisted citizens into [[Molten]] thralls, turning them against their own.
-Fighting raged in the skies and across [[Châteaufeu]].
-Battles flared in [[Chute Soleil]], [[Vante]], [[Ulvenwald]], and [[Davin Port]].
-Later clashes engulfed [[Hallowhenge]] and [[Thraben]]—the Monarchy's capital.
-The heroes fought tirelessly to shatter her control, ending the Republic at last.
+As [[Ashqua]]'s prison waned, the [[New Solar Republic]] declared war on the [[Moonlight Monarchy]].  
+For ten years her whispers twisted citizens into [[Molten]] thralls, turning them against their own.  
+Fighting raged in the skies and across [[Châteaufeu]], with battles flaring in [[Chute Soleil]], [[Vante]], [[Ulvenwald]], and [[Davin Port]].  
+Later clashes engulfed [[Hallowhenge]] and [[Thraben]]—the Monarchy's capital.  
+A band of heroes eventually disrupted Ashqua's hold, tipping the scales in favor of the Moonlight Monarchy.  
+Their victory led to the complete destruction of the New Solar Republic.
 
 ## Narrative
 
-Border clashes soon gave way to open war as Ashqua's whispers drove the Republic to fanatic fury.
-[[Aurene Candra]], [[Dren]], [[Din Strider]], [[Felladrian]], [[Flux]], [[Igni]], [[Mumblebeard]]
-[[Narazir]], [[Okami]], [[Orin Talonsbane]], [[Theer]], and [[Ventri Gale-Thunder]] answered the Monarchy's call.
-They discovered entire legions melted into searing soldiers, their minds shackled to Ashqua's will.
-During the final siege, [[Mumblebeard]] wielded the [[Nerrath#The Heart of Nerrath|Heart of Nerrath]].
-Its lunar radiance shielded the group from Ashqua's molten fury.
-With Ashqua's grip broken, the Moonlight forces surged forward and wiped the Republic from the map.
+Border clashes soon gave way to open war as Ashqua's whispers drove the Republic to fanatic fury.  
+[[Aurene Candra]], [[Dren]], [[Din Strider]], [[Felladrian]], [[Flux]], [[Igni]], [[Mumblebeard]], [[Narazir]], [[Okami]], [[Orin Talonsbane]], [[Theer]], and [[Ventri Gale-Thunder]] answered the Monarchy's call.  
+They discovered entire legions melted into searing soldiers, their minds shackled to Ashqua's will.  
+During the final siege, [[Mumblebeard]] wielded the [[Nerrath#The Heart of Nerrath|Heart of Nerrath]], its lunar radiance shielding the group from Ashqua's molten fury.  
+With Ashqua's grip broken, the Moonlight forces surged forward and wiped the Republic from the map.  
 The decade-long war ended with Ashqua weakened and her molten armies scattered to the winds.
+
 ## Causes
 
 - Deterioration of Ashqua's divine prison following [[Moonfall]]
@@ -57,7 +56,6 @@ Most of the fighting took place in the skies or on [[Châteaufeu]], with key eng
 
 - [[Ashqua]] — imprisoned sun goddess seeking freedom
 - Leaders of the [[Moonlight Monarchy]]
-
 - [[Aurene Candra]]
 - [[Dren]] (Drenari Lunarshard)
 - [[Din Strider]]
@@ -78,6 +76,7 @@ Most of the fighting took place in the skies or on [[Châteaufeu]], with key eng
 - Stories of the heroes' sacrifice spread, inspiring resistance against divine tyranny
 
 ## Backlinks
+
 - [[Moonfall]]
 - [[Ashqua]]
 - [[Molten]]
