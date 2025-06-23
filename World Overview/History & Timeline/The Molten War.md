@@ -6,13 +6,20 @@ Approximately a decade after [[Moonfall]]
 
 ## Summary
 
-As [[Ashqua]]'s prison within the sun began to weaken,
- the [[New Solar Republic]] declared war on the [[Moonlight Monarchy]].
-The conflict lasted ten years, during which Ashqua's growing influence corrupted the citizens of the Republic,
-turning them into [[Molten]] thralls under her control.
-A band of heroes eventually disrupted her hold, tipping the scales in favor of the Moonlight Monarchy.
-Their victory led to the complete destruction of the New Solar Republic.
+As [[Ashqua]]'s prison waned, the [[New Solar Republic]] launched a crusade against the [[Moonlight Monarchy]].
+For a decade her whispers twisted citizens into [[Molten]] thralls.
+The heroes fought tirelessly to shatter her control, ending the Republic at last.
 
+## Narrative
+
+Border clashes soon gave way to open war as Ashqua's whispers drove the Republic to fanatic fury.
+[[Aurene Candra]], [[Dren]], [[Din Strider]], [[Felladrian]], [[Flux]], [[Igni]], [[Mumblebeard]]
+[[Narazir]], [[Okami]], [[Orin Talonsbane]], [[Theer]], and [[Ventri Gale-Thunder]] answered the Monarchy's call.
+They discovered entire legions melted into searing soldiers, their minds shackled to Ashqua's will.
+During the final siege, [[Mumblebeard]] wielded the [[Nerrath#The Heart of Nerrath|Heart of Nerrath]].
+Its lunar radiance shielded the group from Ashqua's molten fury.
+With Ashqua's grip broken, the Moonlight forces surged forward and wiped the Republic from the map.
+The decade-long war ended with Ashqua weakened and her molten armies scattered to the winds.
 ## Causes
 
 - Deterioration of Ashqua's divine prison following [[Moonfall]]
@@ -36,7 +43,19 @@ Their victory led to the complete destruction of the New Solar Republic.
 
 - [[Ashqua]] — imprisoned sun goddess seeking freedom
 - Leaders of the [[Moonlight Monarchy]]
-- Heroes who resisted Ashqua's corruption (player characters)
+
+- [[Aurene Candra]]
+- [[Dren]] (Drenari Lunarshard)
+- [[Din Strider]]
+- [[Felladrian]]
+- [[Flux]]
+- [[Igni]]
+- [[Mumblebeard]] (inheritor of the [[Nerrath#The Heart of Nerrath|Heart of Nerrath]])
+- [[Narazir]]
+- [[Okami]]
+- [[Orin Talonsbane]]
+- [[Theer]]
+- [[Ventri Gale-Thunder]]
 
 ## Legacy and Impact
 
