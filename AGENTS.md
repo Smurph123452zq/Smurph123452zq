@@ -4,7 +4,6 @@ This repository is an Obsidian vault for the **Shattered Isles** tabletop settin
 
 Guidelines for contributions:
 
-- Edit files using standard Markdown syntax. Keep lines under 120 characters when possible.
 - Place images in PNG format.
 - Use Obsidian-style links (`[[Note Name]]`) and tags (e.g., `#location`) when referencing or organizing notes.
 - No code is present, so there are no programmatic tests to run.
