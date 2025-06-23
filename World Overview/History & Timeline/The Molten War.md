@@ -6,12 +6,21 @@ Approximately a decade after [[Moonfall]]
 
 ## Summary
 
-As [[Ashqua]]'s prison within the sun began to weaken,
- the [[New Solar Republic]] declared war on the [[Moonlight Monarchy]].
-The conflict lasted ten years, during which Ashqua's growing influence corrupted the citizens of the Republic,
-turning them into [[Molten]] thralls under her control.
-A band of heroes eventually disrupted her hold, tipping the scales in favor of the Moonlight Monarchy.
+As [[Ashqua]]'s prison waned, the [[New Solar Republic]] declared war on the [[Moonlight Monarchy]].  
+For ten years her whispers twisted citizens into [[Molten]] thralls, turning them against their own.  
+Fighting raged in the skies and across [[Châteaufeu]], with battles flaring in [[Chute Soleil]], [[Vante]], [[Ulvenwald]], and [[Davin Port]].  
+Later clashes engulfed [[Hallowhenge]] and [[Thraben]]—the Monarchy's capital.  
+A band of heroes eventually disrupted Ashqua's hold, tipping the scales in favor of the Moonlight Monarchy.  
 Their victory led to the complete destruction of the New Solar Republic.
+
+## Narrative
+
+Border clashes soon gave way to open war as Ashqua's whispers drove the Republic to fanatic fury.  
+[[Aurene Candra]], [[Dren]], [[Din Strider]], [[Felladrian]], [[Flux]], [[Igni]], [[Mumblebeard]], [[Narazir]], [[Okami]], [[Orin Talonsbane]], [[Theer]], and [[Ventri Gale-Thunder]] answered the Monarchy's call.  
+They discovered entire legions melted into searing soldiers, their minds shackled to Ashqua's will.  
+During the final siege, [[Mumblebeard]] wielded the [[Nerrath#The Heart of Nerrath|Heart of Nerrath]], its lunar radiance shielding the group from Ashqua's molten fury.  
+With Ashqua's grip broken, the Moonlight forces surged forward and wiped the Republic from the map.  
+The decade-long war ended with Ashqua weakened and her molten armies scattered to the winds.
 
 ## Causes
 
@@ -26,6 +35,17 @@ Their victory led to the complete destruction of the New Solar Republic.
 - Heroes intervene, weakening Ashqua's hold on the corrupted army
 - Final battle ends with the Moonlight Monarchy victorious and the Republic annihilated
 
+## Major Battlefields
+
+Most of the fighting took place in the skies or on [[Châteaufeu]], with key engagements across the island:
+
+- [[Chute Soleil]]
+- [[Vante]]
+- [[Ulvenwald]]
+- [[Davin Port]]
+- [[Hallowhenge]]
+- [[Thraben]] — capital of the [[Moonlight Monarchy]]
+
 ## Consequences
 
 - Ashqua's power wanes again, forced back into a weakened prison
@@ -36,7 +56,18 @@ Their victory led to the complete destruction of the New Solar Republic.
 
 - [[Ashqua]] — imprisoned sun goddess seeking freedom
 - Leaders of the [[Moonlight Monarchy]]
-- Heroes who resisted Ashqua's corruption (player characters)
+- [[Aurene Candra]]
+- [[Dren]] (Drenari Lunarshard)
+- [[Din Strider]]
+- [[Felladrian]]
+- [[Flux]]
+- [[Igni]]
+- [[Mumblebeard]] (inheritor of the [[Nerrath#The Heart of Nerrath|Heart of Nerrath]])
+- [[Narazir]]
+- [[Okami]]
+- [[Orin Talonsbane]]
+- [[Theer]]
+- [[Ventri Gale-Thunder]]
 
 ## Legacy and Impact
 
@@ -45,6 +76,7 @@ Their victory led to the complete destruction of the New Solar Republic.
 - Stories of the heroes' sacrifice spread, inspiring resistance against divine tyranny
 
 ## Backlinks
+
 - [[Moonfall]]
 - [[Ashqua]]
 - [[Molten]]
