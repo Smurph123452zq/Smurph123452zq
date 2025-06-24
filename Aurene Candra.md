@@ -11,15 +11,17 @@ tags: #Eladrin, #Druid, #Outlander, #Zonnewij Isels, #Ulvenwald, #Herbalism, #Ne
 **Background:**  Outlander
 **Affiliations:**  
 [[Din Strider]], [[Dren]], [[Felladrian]], [[Flux]], [[Igni]], [[Mumblebeard]], [[Narazir]], [[Okami]], [[Orin Talonsbane]], [[Theer]],[[Ventri Gale-Thunder]] 
-## 📝 Description  
+## 📝 Description
 ![[unknown.png]]
 
-## 🎭 Personality  
+Lean and sharp-eyed, Aurene dresses in practical leathers dyed in the colors of the forest. Faint traces of green magic swirl around his hands when he calls on the spirits of nature.
 
-
-## 🏹 Abilities & Skills  
-
-
+## 🎭 Personality
+Calm and contemplative, Aurene rarely rushes to judgment. His time among the goblin tribes taught him patience and a deep respect for all living things. When friends are threatened, however, he becomes surprisingly relentless.
+## 🏹 Abilities & Skills
+- Expert herbalist and poison crafter
+- Communes with beasts through druidic rituals
+- Skilled with the short bow and wilderness survival
 ## ⚔️ Equipment  
 
 
@@ -38,9 +40,9 @@ Started their traning in [[The Quite Mountain]] quickly proved them selfs with p
 ## 🎭 Notable Quotes  
 > "A quote that represents the character."
 
-## 🏆 Goals & Motivations  
-- **Short-Term Goals:**  
-- **Long-Term Goals:**  
+## 🏆 Goals & Motivations
+- **Short-Term Goals:** Stabilize the corrupted magic of the [[Zonnewij Isels]].
+- **Long-Term Goals:** Restore balance between sun and moon so his homeland can flourish once more.
 
 ## 🗂️ Notes & Trivia  
 - Fun facts, inspirations, or additional details.  
