@@ -2,6 +2,7 @@ Name Inspiration: (_"The Border of the Fallen"_) – _Críoch_ means "border" or
 
 ![[Pasted image 20250207200336.png]]
 Cities and towns
+Críoch Skolvar remains sparsely populated; most settlements host only a few hundred souls while many druids roam the wilds between them.
 1. [[Brigid]]
 2. [[Ayula]]
 3. [[Kinnan]]
