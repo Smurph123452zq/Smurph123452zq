@@ -1,5 +1,5 @@
 # Interplay and Conflict
-Leadership: 🚧 TODO
+Leadership: The roving Talon Council keeps watch over disputes
 Territory: Across nomadic routes and sacred caves
 Mounts/Vehicles: Various clan steeds
 Cultural pillars: Cooperation and rivalry

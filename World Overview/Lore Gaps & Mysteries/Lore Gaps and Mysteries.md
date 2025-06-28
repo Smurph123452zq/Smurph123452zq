@@ -1,5 +1,5 @@
 # Lore Gaps and Mysteries
-Leadership: 🚧 TODO
+Leadership: None—records compiled by wandering scholars
 Territory: N/A
 Mounts/Vehicles: N/A
 Cultural pillars: N/A

@@ -1,7 +1,7 @@
 # Lorekeepers
 Leadership: Council of sages
 Territory: [[Magda]] and the halls of [[Glimmering Grotto]]
-Mounts/Vehicles: 🚧 TODO
+Mounts/Vehicles: Crystal-coated burrow drakes for traversing subterranean tunnels
 Cultural pillars: Study of dragons and minerals, Circle of Renewal rites
 Main trade goods: Rare minerals, dragon lore scrolls
 
