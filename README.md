@@ -27,3 +27,8 @@ A small utility script in `scripts/auto_draft.py` helps manage the vault:
 - `suggest` prints recommended folders and tag prefixes for new content types.
 - `flowchart` builds a simple quest progression flowchart from arc files.
 - `links` outputs a basic semantic link network by cross-referencing tags.
+- `checklinks` reports `[[links]]` that point to missing notes.
+- `tags` creates a tag dashboard summarizing which notes use each tag.
+- `randomnpc` and `randomitem` generate placeholder NPC or item notes.
+- `timeline` compiles dated headings into a chronological list.
+- `consistency` validates YAML frontmatter across the vault.
