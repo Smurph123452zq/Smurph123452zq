@@ -19,3 +19,11 @@ Adventurers in this setting explore lost realms, study lingering relics of the E
 The rest of the Markdown files in the vault provide specific characters, locations and events. Images used throughout the notes are included in PNG format.
 
 To explore the setting, open this repository as a vault in Obsidian or browse the Markdown files directly on GitHub.
+
+## Scripts
+A small utility script in `scripts/auto_draft.py` helps manage the vault:
+
+- `create` generates Markdown notes with YAML frontmatter for isles, NPCs or items.
+- `suggest` prints recommended folders and tag prefixes for new content types.
+- `flowchart` builds a simple quest progression flowchart from arc files.
+- `links` outputs a basic semantic link network by cross-referencing tags.
