@@ -26,3 +26,11 @@ Formed by Captain Lyffon from wanderers and exiles, the Corsairs sweep across th
 - Mysterious sky lights lure the crew toward an ancient arcane engine.
 
 #faction
+
+### Expanded Details (Codex)
+**Crew Statblock Highlights (D&D 5e)**
+The Star-Sail Corsairs travel aboard the *Wandering Zephyr*, a nimble airship with AC 15, 200 hit points, and a speed of 60 ft. (fly). When encountered together, the crew functions as a CR 9 encounter.
+
+- **Ballista Battery.** While all hands are on deck, the Corsairs can fire two ballistae (+6 to hit, 3d10 piercing damage). Loading a ballista requires one action from any crew member.
+- **Boarding Party.** On the first round of combat, Lyffon may launch up to four allies 60 ft. using his gauntlets, allowing them to board enemy vessels.
+- **Morale Surge.** When Bruk plays a rousing melody, each Corsair gains 5 temporary hit points at the start of combat.

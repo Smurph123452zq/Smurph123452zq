@@ -15,3 +15,27 @@ Jinba steers the Wandering Zephyr through the most treacherous currents with cal
 - Might aid those who respect ocean spirits and ancient tides.
 
 [[Star-Sail Corsairs]]
+
+### Expanded Details (Codex)
+**Statblock (D&D 5e)**
+*Medium humanoid (leviathan-folk), lawful neutral*
+
+**Armor Class** 16 (natural armor)
+**Hit Points** 88 (11d8 + 33)
+**Speed** 30 ft., swim 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|18 (+4)|12 (+1)|17 (+3)|11 (+0)|14 (+2)|13 (+1)|
+
+**Saving Throws** Str +7, Wis +5
+**Skills** Vehicles (water) +8, Perception +5, Insight +5
+**Senses** darkvision 60 ft., passive Perception 15
+**Languages** Common, Aquan
+**Challenge** 6 (2,300 XP)
+
+**Actions**
+- **Trident.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (1d8 + 5) piercing damage.
+- **Water Jet (Recharge 5–6).** Jinba releases a 30-foot line of water that is 5 feet wide. Each creature in the line must succeed on a DC 15 Strength saving throw or be pushed 15 feet and knocked prone.
+
+**Equipment** trident, shell-adorned helm, navigational compass
