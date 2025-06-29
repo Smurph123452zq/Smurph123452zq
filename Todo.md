@@ -7,14 +7,14 @@
 - Build encounter tables for [[Monsters & Encounters]]
 - Add background for the [[Moonlight Monarchy]] and [[New Solar Republic]]
 - Finish writing for [[Work On this Later]]
-- Update session logs in [[Campagin Notes]]
+- Update session logs in [[Campaign Notes]]
 - Create more items and beasts in [[Bestiary & Reference]]
 - Link world history summaries in [[World Overview]]
 - Resolve merge conflicts in [[Shattered Isles Vault File Structure.txt]].
 - Remove stray terminal text from notes and ensure proper formatting.
 - Standardize note frontmatter with YAML and proper `#tags`.
 - Convert `.jpg` images to `.png` (`Nagissia idea.jpg`, `Ashqua.jpg`).
-- Rename [[Campagin Notes]] folder to `Campaign Notes`.
+- [x] Rename [[Campagin Notes]] folder to `Campaign Notes`.
 - Correct spelling errors like "Lawful Netural" and "Crown of Dayn Break".
 - Replace references to "The Quite Mountain" with "The Quiet Mountain".
 - Address missing links and images reported by `checklinks` script.

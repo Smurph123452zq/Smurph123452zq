@@ -6,7 +6,7 @@
 - Many notes end with stray terminal text like `root@...` indicating truncated file saves (e.g., [[Narazir's Personal Lab]], [[Porkery Buns]]).
 - Some notes use improper tag formatting without YAML frontmatter, starting with lines like `tags:`.
 - Several images are JPEGs instead of PNGs (`Nagissia idea.jpg`, `World Overview/Pantheon & Deities/Ashqua.jpg`).
-- Directory [[Campagin Notes]] is misspelled; should be `Campaign Notes`.
+- [x] Directory [[Campagin Notes]] is misspelled; should be `Campaign Notes`.
 - Multiple alignment notes misspell "Lawful Neutral" as "Lawful Netural" ([[Ventri Gale-Thunder]], [[Charlie]], [[Mumblebeard]]).
 - Inconsistent artifact name: "Crown of Day Break" vs "Crown of Dayn Break" in [[The Final Eclipse]].
 - Location note reference uses "The Quite Mountain" instead of "The Quiet Mountain" in [[Aurene Candra]].

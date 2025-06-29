@@ -278,7 +278,7 @@
 - [[Igni]]
 - [[New Solar Republic]]
 
-## Campagin Notes/Chapter 1/Session 1 Plan.md
+## Campaign Notes/Chapter 1/Session 1 Plan.md
 - [[Elder Brynjar]]
 
 ## World Overview/Setting & Cosmology/Geography/Gealaí Enclave/Islands/Críoch Skolvar/Towns/Magda/Elder Brynjar.md

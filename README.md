@@ -11,7 +11,7 @@ Adventurers in this setting explore lost realms, study lingering relics of the E
 
 ## Structure
 - `Bestiary & Reference` – creatures, items and rules references
-- `Campagin Notes` – adventure and session notes
+- `Campaign Notes` – adventure and session notes
 - `Monsters & Encounters` – stat blocks and encounter descriptions
 - `NPCs & Factions` – notable characters and organizations
 - `World Overview` – cosmology, history and other broad lore

@@ -58,12 +58,12 @@ The Shattered Isles/
     Shade.md
     Shattered Isles File Structure.text
     Stone Wardens.md
-    Stonecarvers’ Guild.md
+    Stonecarversâ€™ Guild.md
     Sun-Pierced Rat(01).png
     Sun-Pierced Rat.png
     Sunscorch rat(01).png
     Sunscorch rat.png
-    The Dragon’s Rest.md
+    The Dragonâ€™s Rest.md
     The Eclipse Wars.md
     The Final Eclipse.md
     The Lunar Pact.md
@@ -152,28 +152,28 @@ The Shattered Isles/
             Boros_md.ajson
             Brigid_md.ajson
             Brimstone_md.ajson
-            Campagin_Notes_Chapter_1_Outline_md.ajson
-            Campagin_Notes_Chapter_1_Session_1_Outline_md.ajson
-            Campagin_Notes_Chapter_1_Session_1_Plan_md.ajson
-            Campagin_Notes_Chapter_1_Session_3_Garden_of_Bones_md.ajson
-            Campagin_Notes_Chapter_1_Untitled_md.ajson
-            Campagin_Notes_Party_md.ajson
-            Campagin_Notes_Party_Notes_Party_md.ajson
-            Campagin_Notes_Party_Notes_Player_Characters_Ben_Ravencroft_md.ajson
-            Campagin_Notes_Party_Notes_Player_Characters_Eldar_Grelamin_md.ajson
-            Campagin_Notes_Party_Notes_Player_Characters_Hallar_md.ajson
-            Campagin_Notes_Party_Notes_Player_Characters_Jord_md.ajson
-            Campagin_Notes_Party_Notes_Player_Characters_Lucky_Folais_md.ajson
-            Campagin_Notes_Party_Notes_Player_Characters_Rexx_md.ajson
-            Campagin_Notes_Party_Notes_Player_Characters_Skarhn_md.ajson
-            Campagin_Notes_Pary_md.ajson
-            Campagin_Notes_Session_Logs_Session_0_notes_md.ajson
-            Campagin_Notes_Session_Logs_Session_0_Untitled_md.ajson
-            Campagin_Notes_Session_Logs_Session_1_Session_1_note_md.ajson
-            Campagin_Notes_Session_Logs_Session_1_session_2_md.ajson
-            Campagin_Notes_Session_Logs_Session_1_Untitled_md.ajson
-            Campagin_Notes_Session_Logs_Session_3_Garden_of_Bones_Notes_md.ajson
-            Campagin_Notes_Untitled_md.ajson
+            Campaign_Notes_Chapter_1_Outline_md.ajson
+            Campaign_Notes_Chapter_1_Session_1_Outline_md.ajson
+            Campaign_Notes_Chapter_1_Session_1_Plan_md.ajson
+            Campaign_Notes_Chapter_1_Session_3_Garden_of_Bones_md.ajson
+            Campaign_Notes_Chapter_1_Untitled_md.ajson
+            Campaign_Notes_Party_md.ajson
+            Campaign_Notes_Party_Notes_Party_md.ajson
+            Campaign_Notes_Party_Notes_Player_Characters_Ben_Ravencroft_md.ajson
+            Campaign_Notes_Party_Notes_Player_Characters_Eldar_Grelamin_md.ajson
+            Campaign_Notes_Party_Notes_Player_Characters_Hallar_md.ajson
+            Campaign_Notes_Party_Notes_Player_Characters_Jord_md.ajson
+            Campaign_Notes_Party_Notes_Player_Characters_Lucky_Folais_md.ajson
+            Campaign_Notes_Party_Notes_Player_Characters_Rexx_md.ajson
+            Campaign_Notes_Party_Notes_Player_Characters_Skarhn_md.ajson
+            Campaign_Notes_Pary_md.ajson
+            Campaign_Notes_Session_Logs_Session_0_notes_md.ajson
+            Campaign_Notes_Session_Logs_Session_0_Untitled_md.ajson
+            Campaign_Notes_Session_Logs_Session_1_Session_1_note_md.ajson
+            Campaign_Notes_Session_Logs_Session_1_session_2_md.ajson
+            Campaign_Notes_Session_Logs_Session_1_Untitled_md.ajson
+            Campaign_Notes_Session_Logs_Session_3_Garden_of_Bones_Notes_md.ajson
+            Campaign_Notes_Untitled_md.ajson
             Celestarium_md.ajson
             Cennfinnan_md.ajson
             Cethblenn_md.ajson
@@ -209,18 +209,18 @@ The Shattered Isles/
             Character_Template_md.ajson
             Charlie_md.ajson
             Chute_Soleil_md.ajson
-            Châteaufeu_md.ajson
+            ChÃ¢teaufeu_md.ajson
             copilot-conversations_Skill_Tree_md.ajson
             copilot-conversations_You_are_a_D&D_5e_design_assistant__Create_a_high-fantasy@20250426_003500_md.ajson
-            Corrán_an_Fháisce_md.ajson
+            CorrÃ¡n_an_FhÃ¡isce_md.ajson
             Crystal_Cove_md.ajson
-            Críoch_Skolvar_md.ajson
+            CrÃ­och_Skolvar_md.ajson
             Danger_Dan_md.ajson
             Davin_Port_md.ajson
             Dawnshard_md.ajson
             Daybreak_md.ajson
             Delfin-Hail_Thunder_md.ajson
-            Dernière_Lumière_md.ajson
+            DerniÃ¨re_LumiÃ¨re_md.ajson
             Dietershaften_md.ajson
             Din_Strider_md.ajson
             Donnernd_md.ajson
@@ -231,8 +231,8 @@ The Shattered Isles/
             Dungeons_and_Dragons_5e_Rule_Books_Campaign_Storm_King's_Thunder_SKT-PCStats_txt.ajson
             Dungeons_and_Dragons_5e_Rule_Books_Filestructure_txt.ajson
             Durbam_Cathedral_md.ajson
-            Dämmerblut_Archipel_md.ajson
-            Dämmerung_md.ajson
+            DÃ¤mmerblut_Archipel_md.ajson
+            DÃ¤mmerung_md.ajson
             Elatha_md.ajson
             Elcmar_md.ajson
             Eldar_Grelamin_md.ajson
@@ -253,23 +253,23 @@ The Shattered Isles/
             Flim_md.ajson
             Flux_md.ajson
             Fodbgen_an_Drasiel_md.ajson
-            Fodbgen_an_Fháisce_md.ajson
+            Fodbgen_an_FhÃ¡isce_md.ajson
             Fort_Ardenu_md.ajson
             Fort_Kasgain_md.ajson
             Fulmen_md.ajson
-            Févalis_md.ajson
+            FÃ©valis_md.ajson
             Galazeth_md.ajson
             Gale_Vally_md.ajson
             Gann_md.ajson
             Gatterland_md.ajson
-            Gealaí_Enclave_md.ajson
+            GealaÃ­_Enclave_md.ajson
             Genann_md.ajson
             Gipfel_md.ajson
             Glimmering_Grotto_md.ajson
             Glimmerwing_md.ajson
             GreenShale_md.ajson
-            Géaga_Dubha_md.ajson
-            Géag_Karthul_md.ajson
+            GÃ©aga_Dubha_md.ajson
+            GÃ©ag_Karthul_md.ajson
             Halfdane_md.ajson
             Hallar_md.ajson
             Hallowhenge_md.ajson
@@ -280,7 +280,7 @@ The Shattered Isles/
             Igni_md.ajson
             Iheen's_Grand_Library_md.ajson
             Iheen_md.ajson
-            Inse_Ghrífín_md.ajson
+            Inse_GhrÃ­fÃ­n_md.ajson
             Jesamine_Edrah_md.ajson
             Jord_md.ajson
             Kainehurst_md.ajson
@@ -291,7 +291,7 @@ The Shattered Isles/
             Krallenga_md.ajson
             Kreutzbafen_md.ajson
             Kuzu_md.ajson
-            Kürbis_md.ajson
+            KÃ¼rbis_md.ajson
             Last_Hope_md.ajson
             Lavervaynae_md.ajson
             Lawful_Netural_md.ajson
@@ -303,7 +303,7 @@ The Shattered Isles/
             Lore_2025-03-27_md.ajson
             Lore_Ashqua_md.ajson
             Lore_Ayzat_md.ajson
-            Lore_Géag_Karthul_md.ajson
+            Lore_GÃ©ag_Karthul_md.ajson
             Lore_Iheen's_Grand_Library_md.ajson
             Lore_Iheen_md.ajson
             Lore_Lorekeepers_md.ajson
@@ -311,7 +311,7 @@ The Shattered Isles/
             Lore_Molten_md.ajson
             Lore_Narazir's_Personal_Lab_md.ajson
             Lore_Shade_md.ajson
-            Lore_Súl_Uiscekrin_md.ajson
+            Lore_SÃºl_Uiscekrin_md.ajson
             Lore_The_Lunar_Pact_md.ajson
             Lore_The_Tale_of_the_Shattering_md.ajson
             Lore_Unwritten_md.ajson
@@ -322,8 +322,8 @@ The Shattered Isles/
             Lunar_Dominion_md.ajson
             Lunar_pact_md.ajson
             Lupis_md.ajson
-            Láeg_md.ajson
-            Lámhchrúbacha_md.ajson
+            LÃ¡eg_md.ajson
+            LÃ¡mhchrÃºbacha_md.ajson
             Magda_md.ajson
             Magda_population_md.ajson
             Mchamond_md.ajson
@@ -340,8 +340,8 @@ The Shattered Isles/
             Misc_Luchtaine_md.ajson
             Misc_Naya_md.ajson
             Misc_Porkery_Buns_md.ajson
-            Misc_Sadhéh_md.ajson
-            Misc_Stonecarvers’_Guild_md.ajson
+            Misc_SadhÃ©h_md.ajson
+            Misc_Stonecarversâ€™_Guild_md.ajson
             Misc_The_Quiet_Mountain_md.ajson
             Misc_Thraben_md.ajson
             Molten_md.ajson
@@ -390,8 +390,8 @@ The Shattered Isles/
             Rinnal_md.ajson
             Riwena_Lunarshard_md.ajson
             Root_Drake_md.ajson
-            Sadhéh_md.ajson
-            Scheiße_md.ajson
+            SadhÃ©h_md.ajson
+            ScheiÃŸe_md.ajson
             Schlammklaue_md.ajson
             Schuppenfeld_Isles_md.ajson
             Scovile_md.ajson
@@ -407,13 +407,13 @@ The Shattered Isles/
             Spitfire_Bastion_md.ajson
             Sreng_md.ajson
             Stoneback_Burrower_md.ajson
-            Stonecarvers’_Guild_md.ajson
+            Stonecarversâ€™_Guild_md.ajson
             Stone_Wardens_md.ajson
             Storm_Valley_md.ajson
             Sulferkeep_md.ajson
             Sunrise_md.ajson
             Sunset_md.ajson
-            Súl_Uiscekrin_md.ajson
+            SÃºl_Uiscekrin_md.ajson
             Tailtiu_md.ajson
             Tarkir_md.ajson
             Tater_Mond_md.ajson
@@ -422,7 +422,7 @@ The Shattered Isles/
             Templates_Character_Template_md.ajson
             Thaumaven_md.ajson
             Theer_md.ajson
-            The_Dragon’s_Rest_md.ajson
+            The_Dragonâ€™s_Rest_md.ajson
             The_Eclipse_Wars_md.ajson
             The_Final_Eclipse_md.ajson
             The_Lunar_Pact_md.ajson
@@ -432,7 +432,7 @@ The Shattered Isles/
             The_Tale_of_the_Shattering_md.ajson
             Thraben_md.ajson
             Thrasios_md.ajson
-            Thýlakas_md.ajson
+            ThÃ½lakas_md.ajson
             Trostad_md.ajson
             Trottelham_md.ajson
             Tuirann_md.ajson
@@ -455,24 +455,24 @@ The Shattered Isles/
             Worldbuilding_Avadbo_md.ajson
             Worldbuilding_Ayula_md.ajson
             Worldbuilding_Brigid_md.ajson
-            Worldbuilding_Châteaufeu_md.ajson
-            Worldbuilding_Corrán_an_Fháisce_md.ajson
-            Worldbuilding_Críoch_Skolvar_md.ajson
+            Worldbuilding_ChÃ¢teaufeu_md.ajson
+            Worldbuilding_CorrÃ¡n_an_FhÃ¡isce_md.ajson
+            Worldbuilding_CrÃ­och_Skolvar_md.ajson
             Worldbuilding_Dawnshard_md.ajson
             Worldbuilding_Daybreak_md.ajson
             Worldbuilding_Drasiel_md.ajson
-            Worldbuilding_Dämmerblut_Archipel_md.ajson
+            Worldbuilding_DÃ¤mmerblut_Archipel_md.ajson
             Worldbuilding_Establishments_of_Interest_in_Magda_md.ajson
             Worldbuilding_First_Light_md.ajson
-            Worldbuilding_Févalis_md.ajson
+            Worldbuilding_FÃ©valis_md.ajson
             Worldbuilding_Galazeth_md.ajson
-            Worldbuilding_Gealaí_Enclave_md.ajson
+            Worldbuilding_GealaÃ­_Enclave_md.ajson
             Worldbuilding_Glimmering_Grotto_md.ajson
-            Worldbuilding_Géaga_Dubha_md.ajson
-            Worldbuilding_Inse_Ghrífín_md.ajson
+            Worldbuilding_GÃ©aga_Dubha_md.ajson
+            Worldbuilding_Inse_GhrÃ­fÃ­n_md.ajson
             Worldbuilding_Kinnan_md.ajson
             Worldbuilding_Krallenga_md.ajson
-            Worldbuilding_Lámhchrúbacha_md.ajson
+            Worldbuilding_LÃ¡mhchrÃºbacha_md.ajson
             Worldbuilding_Magda_md.ajson
             Worldbuilding_Magda_population_md.ajson
             Worldbuilding_Mchamond_md.ajson
@@ -486,7 +486,7 @@ The Shattered Isles/
             Worldbuilding_Serrathar_Shards_md.ajson
             Worldbuilding_Silberkamm_Isles_md.ajson
             Worldbuilding_Stone_Wardens_md.ajson
-            Worldbuilding_The_Dragon’s_Rest_md.ajson
+            Worldbuilding_The_Dragonâ€™s_Rest_md.ajson
             Worldbuilding_The_Root_&_Vine_md.ajson
             Worldbuilding_The_Shattered_Isles_md.ajson
             Worldbuilding_Thrasios_md.ajson
@@ -500,79 +500,79 @@ The Shattered Isles/
             World_Overview_Pantheon_&_Deities_Ashqua_md.ajson
             World_Overview_Pantheon_&_Deities_Iheen_md.ajson
             World_Overview_Pantheon_&_Deities_Nerrath_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Gealaí_Enclave_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Corrán_an_Fháisce_Cities_Cennfinnan_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Corrán_an_Fháisce_Corrán_an_Fháisce_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Corrán_an_Fháisce_Towns_Fodbgen_an_Fháisce_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Corrán_an_Fháisce_Towns_Gann_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Corrán_an_Fháisce_Towns_Genann_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Cities_Thrasios_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Críoch_Skolvar_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Avadbo_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Ayula_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Brigid_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Galazeth_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Kinnan_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Magda_Dragons_of_Magda_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Magda_Elder_Brynjar_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Magda_Establishments_of_Interest_in_Magda_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Magda_Glimmering_Grotto_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Magda_Lorekeepers_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Magda_Magda_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Magda_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Magda_The_Root_&_Vine_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Nethroi_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Drasiel_Cities_Espaine_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Drasiel_Cities_Luchtaine_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Drasiel_Drasiel_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Drasiel_Towns_Cethblenn_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Drasiel_Towns_Elatha_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Drasiel_Towns_Fodbgen_an_Drasiel_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Drasiel_Towns_Niamb_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Drasiel_Towns_Sreng_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géaga_Dubha_Cities_Sadhéh_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géaga_Dubha_Géaga_Dubha_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géaga_Dubha_Towns_Aibell_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géaga_Dubha_Towns_Bodbmall_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géaga_Dubha_Towns_Leinster_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géag_Karthul_Cities_Midir_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géag_Karthul_Cities_Ogma_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géag_Karthul_Géag_Karthul_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géag_Karthul_Towns_Elcmar_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géag_Karthul_Towns_Áine_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Inse_Ghrífín_Inse_Ghrífín_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Inse_Ghrífín_Towns_Medb_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Inse_Ghrífín_Towns_Rinnal_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Inse_Ghrífín_Towns_Tailtiu_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Inse_Ghrífín_Towns_Ziataridge_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Lámhchrúbacha_Cities_Ferrdiad_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Lámhchrúbacha_Cities_Mugain_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Lámhchrúbacha_Lámhchrúbacha_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Lámhchrúbacha_Towns_Fedelm_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Lámhchrúbacha_Towns_Láeg_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Lámhchrúbacha_Towns_Nera_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Súl_Uiscekrin_Cities_Fiacha_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Súl_Uiscekrin_Cities_Tuirann_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Súl_Uiscekrin_Súl_Uiscekrin_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Luchtaine_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Châteaufeu_Châteaufeu_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Ashmouth_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Chute_Soleil_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Davin_Port_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Dernière_Lumière_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Ulvenwald_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Vante_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Châteaufeu_Towns_Hallowhenge_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Châteaufeu_Towns_Trostad_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Dämmerblut_Archipel_Cities_New_Mensis_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Dämmerblut_Archipel_Cities_Nihil_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Dämmerblut_Archipel_Dämmerblut_Archipel_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Dämmerblut_Archipel_Towns_Kainehurst_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Dämmerblut_Archipel_Towns_Merde_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Févalis_Cities_Durbam_Cathedral_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Févalis_Févalis_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Févalis_Towns_Halfdane_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Févalis_Towns_Light's_End_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_GealaÃ­_Enclave_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CorrÃ¡n_an_FhÃ¡isce_Cities_Cennfinnan_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CorrÃ¡n_an_FhÃ¡isce_CorrÃ¡n_an_FhÃ¡isce_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CorrÃ¡n_an_FhÃ¡isce_Towns_Fodbgen_an_FhÃ¡isce_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CorrÃ¡n_an_FhÃ¡isce_Towns_Gann_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CorrÃ¡n_an_FhÃ¡isce_Towns_Genann_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Cities_Thrasios_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_CrÃ­och_Skolvar_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Avadbo_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Ayula_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Brigid_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Galazeth_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Kinnan_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Magda_Dragons_of_Magda_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Magda_Elder_Brynjar_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Magda_Establishments_of_Interest_in_Magda_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Magda_Glimmering_Grotto_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Magda_Lorekeepers_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Magda_Magda_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Magda_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Magda_The_Root_&_Vine_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Nethroi_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Drasiel_Cities_Espaine_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Drasiel_Cities_Luchtaine_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Drasiel_Drasiel_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Drasiel_Towns_Cethblenn_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Drasiel_Towns_Elatha_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Drasiel_Towns_Fodbgen_an_Drasiel_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Drasiel_Towns_Niamb_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Drasiel_Towns_Sreng_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©aga_Dubha_Cities_SadhÃ©h_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©aga_Dubha_GÃ©aga_Dubha_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©aga_Dubha_Towns_Aibell_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©aga_Dubha_Towns_Bodbmall_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©aga_Dubha_Towns_Leinster_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©ag_Karthul_Cities_Midir_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©ag_Karthul_Cities_Ogma_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©ag_Karthul_GÃ©ag_Karthul_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©ag_Karthul_Towns_Elcmar_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©ag_Karthul_Towns_Ãine_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Inse_GhrÃ­fÃ­n_Inse_GhrÃ­fÃ­n_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Inse_GhrÃ­fÃ­n_Towns_Medb_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Inse_GhrÃ­fÃ­n_Towns_Rinnal_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Inse_GhrÃ­fÃ­n_Towns_Tailtiu_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Inse_GhrÃ­fÃ­n_Towns_Ziataridge_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_LÃ¡mhchrÃºbacha_Cities_Ferrdiad_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_LÃ¡mhchrÃºbacha_Cities_Mugain_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_LÃ¡mhchrÃºbacha_LÃ¡mhchrÃºbacha_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_LÃ¡mhchrÃºbacha_Towns_Fedelm_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_LÃ¡mhchrÃºbacha_Towns_LÃ¡eg_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_LÃ¡mhchrÃºbacha_Towns_Nera_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_SÃºl_Uiscekrin_Cities_Fiacha_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_SÃºl_Uiscekrin_Cities_Tuirann_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_SÃºl_Uiscekrin_SÃºl_Uiscekrin_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Luchtaine_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_ChÃ¢teaufeu_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Ashmouth_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Chute_Soleil_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Davin_Port_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_DerniÃ¨re_LumiÃ¨re_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Ulvenwald_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Vante_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Towns_Hallowhenge_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Towns_Trostad_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_DÃ¤mmerblut_Archipel_Cities_New_Mensis_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_DÃ¤mmerblut_Archipel_Cities_Nihil_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_DÃ¤mmerblut_Archipel_DÃ¤mmerblut_Archipel_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_DÃ¤mmerblut_Archipel_Towns_Kainehurst_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_DÃ¤mmerblut_Archipel_Towns_Merde_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_FÃ©valis_Cities_Durbam_Cathedral_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_FÃ©valis_FÃ©valis_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_FÃ©valis_Towns_Halfdane_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_FÃ©valis_Towns_Light's_End_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Schlammklaue_Cities_Gatterland_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Schlammklaue_Schlammklaue_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Schlammklaue_Towns_Nearheath_md.ajson
@@ -647,14 +647,14 @@ The Shattered Isles/
             World_Overview_Setting_&_Cosmology_Geography_United_Mortal_Pact_Islands_Veltharion_Reach_Veltharion_Reach_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_United_Mortal_Pact_Islands_Vermyrcove_Cities_Lupis_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_United_Mortal_Pact_Islands_Vermyrcove_Towns_Harpercourt_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_United_Mortal_Pact_Islands_Vermyrcove_Towns_Thýlakas_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_United_Mortal_Pact_Islands_Vermyrcove_Towns_ThÃ½lakas_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_United_Mortal_Pact_Islands_Vermyrcove_Vermyrcove_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_United_Mortal_Pact_Thaumaven_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_United_Mortal_Pact_United_Mortal_Pact_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Dämmerung_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_DÃ¤mmerung_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Aschekilima_Aschekilima_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Aschekilima_Cities_Abspielen_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Aschekilima_Cities_Dämmerung_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Aschekilima_Cities_DÃ¤mmerung_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Aschekilima_Cities_Fort_Kasgain_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Aschekilima_Cities_Zagenberg_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Aschekilima_Cities_Zwiebel_md.ajson
@@ -662,7 +662,7 @@ The Shattered Isles/
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Aschekilima_Towns_Telepis_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Aschekilima_Towns_Valleron_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Krallenga_Cities_Arnlboch_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Krallenga_Cities_Kürbis_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Krallenga_Cities_KÃ¼rbis_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Krallenga_Cities_Trottelham_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Krallenga_Krallenga_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Krallenga_Towns_Tater_Mond_md.ajson
@@ -673,20 +673,20 @@ The Shattered Isles/
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Mchamond_Towns_Donnernd_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Mchamond_Towns_Gipfel_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Virazorn_Cities_Himmelsse_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Virazorn_Cities_Scheiße_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Virazorn_Cities_ScheiÃŸe_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Virazorn_Towns_Boggenhaffem_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Virazorn_Towns_Dietershaften_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Virazorn_Virazorn_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Zonnewij_Isels_md.ajson
-            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Châteaufeu_Châteaufeu_md.ajson
-            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Ashmouth_md.ajson
-            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Chute_Soleil_md.ajson
-            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Davin_Port_md.ajson
-            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Dernière_Lumière_md.ajson
-            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Ulvenwald_md.ajson
-            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Vante_md.ajson
-            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Châteaufeu_Towns_Hallowhenge_md.ajson
-            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Châteaufeu_Towns_Trostad_md.ajson
+            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_ChÃ¢teaufeu_md.ajson
+            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Ashmouth_md.ajson
+            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Chute_Soleil_md.ajson
+            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Davin_Port_md.ajson
+            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_DerniÃ¨re_LumiÃ¨re_md.ajson
+            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Ulvenwald_md.ajson
+            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Vante_md.ajson
+            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Towns_Hallowhenge_md.ajson
+            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Towns_Trostad_md.ajson
             World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Ventsylis_Cities_Storm_Valley_md.ajson
             World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Ventsylis_Towns_Moorland_md.ajson
             World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Ventsylis_Towns_Tempest_md.ajson
@@ -702,7 +702,7 @@ The Shattered Isles/
             Ziataridge_md.ajson
             Zonnewij_Isels_md.ajson
             Zwiebel_md.ajson
-            Áine_md.ajson
+    Campaign Notes/
         smart_actions/
         smart_chat_threads/
         smart_completions/
@@ -836,7 +836,7 @@ The Shattered Isles/
     Magic Items & Artifacts/
         Crown of Daybreak/
         Fallen Stars/
-        Nerrath’s Artifacts/
+        Nerrathâ€™s Artifacts/
         Other Homebrew Items/
     Monsters & Encounters/
         Mutated Wildlife.md
@@ -863,21 +863,21 @@ The Shattered Isles/
             Geography/
                 Shattered Isles world Map season 2.png
                 The Shattered Isles.md
-                Gealaí Enclave/
-                    Gealaí Enclave.md
+                GealaÃ­ Enclave/
+                    GealaÃ­ Enclave.md
                     Pasted image 20250207174701.png
                     Islands/
-                        Corrán an Fháisce/
-                            Corrán an Fháisce.md
+                        CorrÃ¡n an FhÃ¡isce/
+                            CorrÃ¡n an FhÃ¡isce.md
                             Pasted image 20250207193448.png
                             Cities/
                                 Cennfinnan.md
                             Towns/
-                                Fodbgen an Fháisce.md
+                                Fodbgen an FhÃ¡isce.md
                                 Gann.md
                                 Genann.md
-                        Críoch Skolvar/
-                            Críoch Skolvar.md
+                        CrÃ­och Skolvar/
+                            CrÃ­och Skolvar.md
                             Pasted image 20250207200336.png
                             Cities/
                                 Thrasios.md
@@ -916,45 +916,45 @@ The Shattered Isles/
                                 Fodbgen an Drasiel.md
                                 Niamb.md
                                 Sreng.md
-                        Géag Karthul/
-                            Géag Karthul.md
+                        GÃ©ag Karthul/
+                            GÃ©ag Karthul.md
                             Pasted image 20250207195816.png
                             Cities/
                                 Midir.md
                                 Ogma.md
                             Towns/
                                 Elcmar.md
-                                Áine.md
-                        Géaga Dubha/
-                            Géaga Dubha.md
+                                Ãine.md
+                        GÃ©aga Dubha/
+                            GÃ©aga Dubha.md
                             Pasted image 20250207191823.png
                             Cities/
-                                Sadhéh.md
+                                SadhÃ©h.md
                             Towns/
                                 Aibell.md
                                 Bodbmall.md
                                 Leinster.md
-                        Inse Ghrífín/
-                            Inse Ghrífín.md
+                        Inse GhrÃ­fÃ­n/
+                            Inse GhrÃ­fÃ­n.md
                             Pasted image 20250207190253.png
                             Towns/
                                 Medb.md
                                 Rinnal.md
                                 Tailtiu.md
                                 Ziataridge.md
-                        Lámhchrúbacha/
-                            Lámhchrúbacha.md
+                        LÃ¡mhchrÃºbacha/
+                            LÃ¡mhchrÃºbacha.md
                             Pasted image 20250207191054.png
                             Cities/
                                 Ferrdiad.md
                                 Mugain.md
                             Towns/
                                 Fedelm.md
-                                Láeg.md
+                                LÃ¡eg.md
                                 Nera.md
-                        Súl Uiscekrin/
+                        SÃºl Uiscekrin/
                             Pasted image 20250207195119.png
-                            Súl Uiscekrin.md
+                            SÃºl Uiscekrin.md
                             Cities/
                                 Fiacha.md
                                 Tuirann.md
@@ -963,21 +963,21 @@ The Shattered Isles/
                     Pasted image 20250209151010.png
                     Thraben.md
                     Islands/
-                        Châteaufeu/
-                            Châteaufeu.md
+                        ChÃ¢teaufeu/
+                            ChÃ¢teaufeu.md
                             Pasted image 20250209151734.png
                             Cities/
                                 Ashmouth.md
                                 Chute Soleil.md
                                 Davin Port.md
-                                Dernière Lumière.md
+                                DerniÃ¨re LumiÃ¨re.md
                                 Ulvenwald.md
                                 Vante.md
                             Towns/
                                 Hallowhenge.md
                                 Trostad.md
-                        Dämmerblut Archipel/
-                            Dämmerblut Archipel.md
+                        DÃ¤mmerblut Archipel/
+                            DÃ¤mmerblut Archipel.md
                             Pasted image 20250209173128.png
                             Cities/
                                 New Mensis.md
@@ -985,8 +985,8 @@ The Shattered Isles/
                             Towns/
                                 Kainehurst.md
                                 Merde.md
-                        Févalis/
-                            Févalis.md
+                        FÃ©valis/
+                            FÃ©valis.md
                             Pasted image 20250209165936.png
                             Cities/
                                 Durbam Cathedral.md
@@ -1111,7 +1111,7 @@ The Shattered Isles/
                                 Lupis.md
                             Towns/
                                 Harpercourt.md
-                                Thýlakas.md
+                                ThÃ½lakas.md
                 Zonnewij Isels/
                     Pasted image 20250210035216.png
                     Zonnewij Isels.md
@@ -1121,7 +1121,7 @@ The Shattered Isles/
                             Pasted image 20250210035409.png
                             Cities/
                                 Abspielen.md
-                                Dämmerung.md
+                                DÃ¤mmerung.md
                                 Fort Kasgain.md
                                 Zagenberg.md
                                 Zwiebel.md
@@ -1134,7 +1134,7 @@ The Shattered Isles/
                             Pasted image 20250210041527.png
                             Cities/
                                 Arnlboch.md
-                                Kürbis.md
+                                KÃ¼rbis.md
                                 Trottelham.md
                             Towns/
                                 Tater Mond.md
@@ -1155,7 +1155,7 @@ The Shattered Isles/
                             Virazorn.md
                             Cities/
                                 Himmelsse.md
-                                Scheiße.md
+                                ScheiÃŸe.md
                             Towns/
                                 Boggenhaffem.md
                                 Dietershaften.md
@@ -1219,12 +1219,12 @@ The Shattered Isles/
     Shade.md
     Shattered Isles File Structure.text
     Stone Wardens.md
-    Stonecarvers’ Guild.md
+    Stonecarversâ€™ Guild.md
     Sun-Pierced Rat(01).png
     Sun-Pierced Rat.png
     Sunscorch rat(01).png
     Sunscorch rat.png
-    The Dragon’s Rest.md
+    The Dragonâ€™s Rest.md
     The Eclipse Wars.md
     The Final Eclipse.md
     The Lunar Pact.md
@@ -1313,28 +1313,28 @@ The Shattered Isles/
             Boros_md.ajson
             Brigid_md.ajson
             Brimstone_md.ajson
-            Campagin_Notes_Chapter_1_Outline_md.ajson
-            Campagin_Notes_Chapter_1_Session_1_Outline_md.ajson
-            Campagin_Notes_Chapter_1_Session_1_Plan_md.ajson
-            Campagin_Notes_Chapter_1_Session_3_Garden_of_Bones_md.ajson
-            Campagin_Notes_Chapter_1_Untitled_md.ajson
-            Campagin_Notes_Party_md.ajson
-            Campagin_Notes_Party_Notes_Party_md.ajson
-            Campagin_Notes_Party_Notes_Player_Characters_Ben_Ravencroft_md.ajson
-            Campagin_Notes_Party_Notes_Player_Characters_Eldar_Grelamin_md.ajson
-            Campagin_Notes_Party_Notes_Player_Characters_Hallar_md.ajson
-            Campagin_Notes_Party_Notes_Player_Characters_Jord_md.ajson
-            Campagin_Notes_Party_Notes_Player_Characters_Lucky_Folais_md.ajson
-            Campagin_Notes_Party_Notes_Player_Characters_Rexx_md.ajson
-            Campagin_Notes_Party_Notes_Player_Characters_Skarhn_md.ajson
-            Campagin_Notes_Pary_md.ajson
-            Campagin_Notes_Session_Logs_Session_0_notes_md.ajson
-            Campagin_Notes_Session_Logs_Session_0_Untitled_md.ajson
-            Campagin_Notes_Session_Logs_Session_1_Session_1_note_md.ajson
-            Campagin_Notes_Session_Logs_Session_1_session_2_md.ajson
-            Campagin_Notes_Session_Logs_Session_1_Untitled_md.ajson
-            Campagin_Notes_Session_Logs_Session_3_Garden_of_Bones_Notes_md.ajson
-            Campagin_Notes_Untitled_md.ajson
+            Campaign_Notes_Chapter_1_Outline_md.ajson
+            Campaign_Notes_Chapter_1_Session_1_Outline_md.ajson
+            Campaign_Notes_Chapter_1_Session_1_Plan_md.ajson
+            Campaign_Notes_Chapter_1_Session_3_Garden_of_Bones_md.ajson
+            Campaign_Notes_Chapter_1_Untitled_md.ajson
+            Campaign_Notes_Party_md.ajson
+            Campaign_Notes_Party_Notes_Party_md.ajson
+            Campaign_Notes_Party_Notes_Player_Characters_Ben_Ravencroft_md.ajson
+            Campaign_Notes_Party_Notes_Player_Characters_Eldar_Grelamin_md.ajson
+            Campaign_Notes_Party_Notes_Player_Characters_Hallar_md.ajson
+            Campaign_Notes_Party_Notes_Player_Characters_Jord_md.ajson
+            Campaign_Notes_Party_Notes_Player_Characters_Lucky_Folais_md.ajson
+            Campaign_Notes_Party_Notes_Player_Characters_Rexx_md.ajson
+            Campaign_Notes_Party_Notes_Player_Characters_Skarhn_md.ajson
+            Campaign_Notes_Pary_md.ajson
+            Campaign_Notes_Session_Logs_Session_0_notes_md.ajson
+            Campaign_Notes_Session_Logs_Session_0_Untitled_md.ajson
+            Campaign_Notes_Session_Logs_Session_1_Session_1_note_md.ajson
+            Campaign_Notes_Session_Logs_Session_1_session_2_md.ajson
+            Campaign_Notes_Session_Logs_Session_1_Untitled_md.ajson
+            Campaign_Notes_Session_Logs_Session_3_Garden_of_Bones_Notes_md.ajson
+            Campaign_Notes_Untitled_md.ajson
             Celestarium_md.ajson
             Cennfinnan_md.ajson
             Cethblenn_md.ajson
@@ -1370,18 +1370,18 @@ The Shattered Isles/
             Character_Template_md.ajson
             Charlie_md.ajson
             Chute_Soleil_md.ajson
-            Châteaufeu_md.ajson
+            ChÃ¢teaufeu_md.ajson
             copilot-conversations_Skill_Tree_md.ajson
             copilot-conversations_You_are_a_D&D_5e_design_assistant__Create_a_high-fantasy@20250426_003500_md.ajson
-            Corrán_an_Fháisce_md.ajson
+            CorrÃ¡n_an_FhÃ¡isce_md.ajson
             Crystal_Cove_md.ajson
-            Críoch_Skolvar_md.ajson
+            CrÃ­och_Skolvar_md.ajson
             Danger_Dan_md.ajson
             Davin_Port_md.ajson
             Dawnshard_md.ajson
             Daybreak_md.ajson
             Delfin-Hail_Thunder_md.ajson
-            Dernière_Lumière_md.ajson
+            DerniÃ¨re_LumiÃ¨re_md.ajson
             Dietershaften_md.ajson
             Din_Strider_md.ajson
             Donnernd_md.ajson
@@ -1392,8 +1392,8 @@ The Shattered Isles/
             Dungeons_and_Dragons_5e_Rule_Books_Campaign_Storm_King's_Thunder_SKT-PCStats_txt.ajson
             Dungeons_and_Dragons_5e_Rule_Books_Filestructure_txt.ajson
             Durbam_Cathedral_md.ajson
-            Dämmerblut_Archipel_md.ajson
-            Dämmerung_md.ajson
+            DÃ¤mmerblut_Archipel_md.ajson
+            DÃ¤mmerung_md.ajson
             Elatha_md.ajson
             Elcmar_md.ajson
             Eldar_Grelamin_md.ajson
@@ -1414,23 +1414,23 @@ The Shattered Isles/
             Flim_md.ajson
             Flux_md.ajson
             Fodbgen_an_Drasiel_md.ajson
-            Fodbgen_an_Fháisce_md.ajson
+            Fodbgen_an_FhÃ¡isce_md.ajson
             Fort_Ardenu_md.ajson
             Fort_Kasgain_md.ajson
             Fulmen_md.ajson
-            Févalis_md.ajson
+            FÃ©valis_md.ajson
             Galazeth_md.ajson
             Gale_Vally_md.ajson
             Gann_md.ajson
             Gatterland_md.ajson
-            Gealaí_Enclave_md.ajson
+            GealaÃ­_Enclave_md.ajson
             Genann_md.ajson
             Gipfel_md.ajson
             Glimmering_Grotto_md.ajson
             Glimmerwing_md.ajson
             GreenShale_md.ajson
-            Géaga_Dubha_md.ajson
-            Géag_Karthul_md.ajson
+            GÃ©aga_Dubha_md.ajson
+            GÃ©ag_Karthul_md.ajson
             Halfdane_md.ajson
             Hallar_md.ajson
             Hallowhenge_md.ajson
@@ -1441,7 +1441,7 @@ The Shattered Isles/
             Igni_md.ajson
             Iheen's_Grand_Library_md.ajson
             Iheen_md.ajson
-            Inse_Ghrífín_md.ajson
+            Inse_GhrÃ­fÃ­n_md.ajson
             Jesamine_Edrah_md.ajson
             Jord_md.ajson
             Kainehurst_md.ajson
@@ -1452,7 +1452,7 @@ The Shattered Isles/
             Krallenga_md.ajson
             Kreutzbafen_md.ajson
             Kuzu_md.ajson
-            Kürbis_md.ajson
+            KÃ¼rbis_md.ajson
             Last_Hope_md.ajson
             Lavervaynae_md.ajson
             Lawful_Netural_md.ajson
@@ -1464,7 +1464,7 @@ The Shattered Isles/
             Lore_2025-03-27_md.ajson
             Lore_Ashqua_md.ajson
             Lore_Ayzat_md.ajson
-            Lore_Géag_Karthul_md.ajson
+            Lore_GÃ©ag_Karthul_md.ajson
             Lore_Iheen's_Grand_Library_md.ajson
             Lore_Iheen_md.ajson
             Lore_Lorekeepers_md.ajson
@@ -1472,7 +1472,7 @@ The Shattered Isles/
             Lore_Molten_md.ajson
             Lore_Narazir's_Personal_Lab_md.ajson
             Lore_Shade_md.ajson
-            Lore_Súl_Uiscekrin_md.ajson
+            Lore_SÃºl_Uiscekrin_md.ajson
             Lore_The_Lunar_Pact_md.ajson
             Lore_The_Tale_of_the_Shattering_md.ajson
             Lore_Unwritten_md.ajson
@@ -1483,8 +1483,8 @@ The Shattered Isles/
             Lunar_Dominion_md.ajson
             Lunar_pact_md.ajson
             Lupis_md.ajson
-            Láeg_md.ajson
-            Lámhchrúbacha_md.ajson
+            LÃ¡eg_md.ajson
+            LÃ¡mhchrÃºbacha_md.ajson
             Magda_md.ajson
             Magda_population_md.ajson
             Mchamond_md.ajson
@@ -1501,8 +1501,8 @@ The Shattered Isles/
             Misc_Luchtaine_md.ajson
             Misc_Naya_md.ajson
             Misc_Porkery_Buns_md.ajson
-            Misc_Sadhéh_md.ajson
-            Misc_Stonecarvers’_Guild_md.ajson
+            Misc_SadhÃ©h_md.ajson
+            Misc_Stonecarversâ€™_Guild_md.ajson
             Misc_The_Quiet_Mountain_md.ajson
             Misc_Thraben_md.ajson
             Molten_md.ajson
@@ -1551,8 +1551,8 @@ The Shattered Isles/
             Rinnal_md.ajson
             Riwena_Lunarshard_md.ajson
             Root_Drake_md.ajson
-            Sadhéh_md.ajson
-            Scheiße_md.ajson
+            SadhÃ©h_md.ajson
+            ScheiÃŸe_md.ajson
             Schlammklaue_md.ajson
             Schuppenfeld_Isles_md.ajson
             Scovile_md.ajson
@@ -1568,13 +1568,13 @@ The Shattered Isles/
             Spitfire_Bastion_md.ajson
             Sreng_md.ajson
             Stoneback_Burrower_md.ajson
-            Stonecarvers’_Guild_md.ajson
+            Stonecarversâ€™_Guild_md.ajson
             Stone_Wardens_md.ajson
             Storm_Valley_md.ajson
             Sulferkeep_md.ajson
             Sunrise_md.ajson
             Sunset_md.ajson
-            Súl_Uiscekrin_md.ajson
+            SÃºl_Uiscekrin_md.ajson
             Tailtiu_md.ajson
             Tarkir_md.ajson
             Tater_Mond_md.ajson
@@ -1583,7 +1583,7 @@ The Shattered Isles/
             Templates_Character_Template_md.ajson
             Thaumaven_md.ajson
             Theer_md.ajson
-            The_Dragon’s_Rest_md.ajson
+            The_Dragonâ€™s_Rest_md.ajson
             The_Eclipse_Wars_md.ajson
             The_Final_Eclipse_md.ajson
             The_Lunar_Pact_md.ajson
@@ -1593,7 +1593,7 @@ The Shattered Isles/
             The_Tale_of_the_Shattering_md.ajson
             Thraben_md.ajson
             Thrasios_md.ajson
-            Thýlakas_md.ajson
+            ThÃ½lakas_md.ajson
             Trostad_md.ajson
             Trottelham_md.ajson
             Tuirann_md.ajson
@@ -1616,24 +1616,24 @@ The Shattered Isles/
             Worldbuilding_Avadbo_md.ajson
             Worldbuilding_Ayula_md.ajson
             Worldbuilding_Brigid_md.ajson
-            Worldbuilding_Châteaufeu_md.ajson
-            Worldbuilding_Corrán_an_Fháisce_md.ajson
-            Worldbuilding_Críoch_Skolvar_md.ajson
+            Worldbuilding_ChÃ¢teaufeu_md.ajson
+            Worldbuilding_CorrÃ¡n_an_FhÃ¡isce_md.ajson
+            Worldbuilding_CrÃ­och_Skolvar_md.ajson
             Worldbuilding_Dawnshard_md.ajson
             Worldbuilding_Daybreak_md.ajson
             Worldbuilding_Drasiel_md.ajson
-            Worldbuilding_Dämmerblut_Archipel_md.ajson
+            Worldbuilding_DÃ¤mmerblut_Archipel_md.ajson
             Worldbuilding_Establishments_of_Interest_in_Magda_md.ajson
             Worldbuilding_First_Light_md.ajson
-            Worldbuilding_Févalis_md.ajson
+            Worldbuilding_FÃ©valis_md.ajson
             Worldbuilding_Galazeth_md.ajson
-            Worldbuilding_Gealaí_Enclave_md.ajson
+            Worldbuilding_GealaÃ­_Enclave_md.ajson
             Worldbuilding_Glimmering_Grotto_md.ajson
-            Worldbuilding_Géaga_Dubha_md.ajson
-            Worldbuilding_Inse_Ghrífín_md.ajson
+            Worldbuilding_GÃ©aga_Dubha_md.ajson
+            Worldbuilding_Inse_GhrÃ­fÃ­n_md.ajson
             Worldbuilding_Kinnan_md.ajson
             Worldbuilding_Krallenga_md.ajson
-            Worldbuilding_Lámhchrúbacha_md.ajson
+            Worldbuilding_LÃ¡mhchrÃºbacha_md.ajson
             Worldbuilding_Magda_md.ajson
             Worldbuilding_Magda_population_md.ajson
             Worldbuilding_Mchamond_md.ajson
@@ -1647,7 +1647,7 @@ The Shattered Isles/
             Worldbuilding_Serrathar_Shards_md.ajson
             Worldbuilding_Silberkamm_Isles_md.ajson
             Worldbuilding_Stone_Wardens_md.ajson
-            Worldbuilding_The_Dragon’s_Rest_md.ajson
+            Worldbuilding_The_Dragonâ€™s_Rest_md.ajson
             Worldbuilding_The_Root_&_Vine_md.ajson
             Worldbuilding_The_Shattered_Isles_md.ajson
             Worldbuilding_Thrasios_md.ajson
@@ -1661,79 +1661,79 @@ The Shattered Isles/
             World_Overview_Pantheon_&_Deities_Ashqua_md.ajson
             World_Overview_Pantheon_&_Deities_Iheen_md.ajson
             World_Overview_Pantheon_&_Deities_Nerrath_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Gealaí_Enclave_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Corrán_an_Fháisce_Cities_Cennfinnan_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Corrán_an_Fháisce_Corrán_an_Fháisce_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Corrán_an_Fháisce_Towns_Fodbgen_an_Fháisce_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Corrán_an_Fháisce_Towns_Gann_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Corrán_an_Fháisce_Towns_Genann_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Cities_Thrasios_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Críoch_Skolvar_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Avadbo_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Ayula_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Brigid_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Galazeth_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Kinnan_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Magda_Dragons_of_Magda_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Magda_Elder_Brynjar_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Magda_Establishments_of_Interest_in_Magda_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Magda_Glimmering_Grotto_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Magda_Lorekeepers_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Magda_Magda_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Magda_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Magda_The_Root_&_Vine_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Críoch_Skolvar_Towns_Nethroi_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Drasiel_Cities_Espaine_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Drasiel_Cities_Luchtaine_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Drasiel_Drasiel_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Drasiel_Towns_Cethblenn_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Drasiel_Towns_Elatha_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Drasiel_Towns_Fodbgen_an_Drasiel_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Drasiel_Towns_Niamb_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Drasiel_Towns_Sreng_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géaga_Dubha_Cities_Sadhéh_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géaga_Dubha_Géaga_Dubha_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géaga_Dubha_Towns_Aibell_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géaga_Dubha_Towns_Bodbmall_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géaga_Dubha_Towns_Leinster_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géag_Karthul_Cities_Midir_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géag_Karthul_Cities_Ogma_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géag_Karthul_Géag_Karthul_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géag_Karthul_Towns_Elcmar_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Géag_Karthul_Towns_Áine_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Inse_Ghrífín_Inse_Ghrífín_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Inse_Ghrífín_Towns_Medb_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Inse_Ghrífín_Towns_Rinnal_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Inse_Ghrífín_Towns_Tailtiu_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Inse_Ghrífín_Towns_Ziataridge_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Lámhchrúbacha_Cities_Ferrdiad_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Lámhchrúbacha_Cities_Mugain_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Lámhchrúbacha_Lámhchrúbacha_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Lámhchrúbacha_Towns_Fedelm_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Lámhchrúbacha_Towns_Láeg_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Lámhchrúbacha_Towns_Nera_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Súl_Uiscekrin_Cities_Fiacha_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Súl_Uiscekrin_Cities_Tuirann_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Islands_Súl_Uiscekrin_Súl_Uiscekrin_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Gealaí_Enclave_Luchtaine_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Châteaufeu_Châteaufeu_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Ashmouth_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Chute_Soleil_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Davin_Port_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Dernière_Lumière_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Ulvenwald_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Vante_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Châteaufeu_Towns_Hallowhenge_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Châteaufeu_Towns_Trostad_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Dämmerblut_Archipel_Cities_New_Mensis_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Dämmerblut_Archipel_Cities_Nihil_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Dämmerblut_Archipel_Dämmerblut_Archipel_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Dämmerblut_Archipel_Towns_Kainehurst_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Dämmerblut_Archipel_Towns_Merde_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Févalis_Cities_Durbam_Cathedral_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Févalis_Févalis_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Févalis_Towns_Halfdane_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Févalis_Towns_Light's_End_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_GealaÃ­_Enclave_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CorrÃ¡n_an_FhÃ¡isce_Cities_Cennfinnan_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CorrÃ¡n_an_FhÃ¡isce_CorrÃ¡n_an_FhÃ¡isce_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CorrÃ¡n_an_FhÃ¡isce_Towns_Fodbgen_an_FhÃ¡isce_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CorrÃ¡n_an_FhÃ¡isce_Towns_Gann_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CorrÃ¡n_an_FhÃ¡isce_Towns_Genann_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Cities_Thrasios_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_CrÃ­och_Skolvar_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Avadbo_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Ayula_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Brigid_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Galazeth_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Kinnan_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Magda_Dragons_of_Magda_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Magda_Elder_Brynjar_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Magda_Establishments_of_Interest_in_Magda_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Magda_Glimmering_Grotto_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Magda_Lorekeepers_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Magda_Magda_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Magda_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Magda_The_Root_&_Vine_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_CrÃ­och_Skolvar_Towns_Nethroi_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Drasiel_Cities_Espaine_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Drasiel_Cities_Luchtaine_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Drasiel_Drasiel_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Drasiel_Towns_Cethblenn_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Drasiel_Towns_Elatha_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Drasiel_Towns_Fodbgen_an_Drasiel_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Drasiel_Towns_Niamb_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Drasiel_Towns_Sreng_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©aga_Dubha_Cities_SadhÃ©h_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©aga_Dubha_GÃ©aga_Dubha_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©aga_Dubha_Towns_Aibell_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©aga_Dubha_Towns_Bodbmall_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©aga_Dubha_Towns_Leinster_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©ag_Karthul_Cities_Midir_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©ag_Karthul_Cities_Ogma_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©ag_Karthul_GÃ©ag_Karthul_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©ag_Karthul_Towns_Elcmar_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_GÃ©ag_Karthul_Towns_Ãine_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Inse_GhrÃ­fÃ­n_Inse_GhrÃ­fÃ­n_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Inse_GhrÃ­fÃ­n_Towns_Medb_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Inse_GhrÃ­fÃ­n_Towns_Rinnal_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Inse_GhrÃ­fÃ­n_Towns_Tailtiu_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_Inse_GhrÃ­fÃ­n_Towns_Ziataridge_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_LÃ¡mhchrÃºbacha_Cities_Ferrdiad_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_LÃ¡mhchrÃºbacha_Cities_Mugain_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_LÃ¡mhchrÃºbacha_LÃ¡mhchrÃºbacha_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_LÃ¡mhchrÃºbacha_Towns_Fedelm_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_LÃ¡mhchrÃºbacha_Towns_LÃ¡eg_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_LÃ¡mhchrÃºbacha_Towns_Nera_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_SÃºl_Uiscekrin_Cities_Fiacha_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_SÃºl_Uiscekrin_Cities_Tuirann_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Islands_SÃºl_Uiscekrin_SÃºl_Uiscekrin_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_GealaÃ­_Enclave_Luchtaine_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_ChÃ¢teaufeu_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Ashmouth_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Chute_Soleil_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Davin_Port_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_DerniÃ¨re_LumiÃ¨re_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Ulvenwald_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Vante_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Towns_Hallowhenge_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Towns_Trostad_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_DÃ¤mmerblut_Archipel_Cities_New_Mensis_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_DÃ¤mmerblut_Archipel_Cities_Nihil_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_DÃ¤mmerblut_Archipel_DÃ¤mmerblut_Archipel_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_DÃ¤mmerblut_Archipel_Towns_Kainehurst_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_DÃ¤mmerblut_Archipel_Towns_Merde_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_FÃ©valis_Cities_Durbam_Cathedral_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_FÃ©valis_FÃ©valis_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_FÃ©valis_Towns_Halfdane_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_FÃ©valis_Towns_Light's_End_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Schlammklaue_Cities_Gatterland_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Schlammklaue_Schlammklaue_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Moonlight_Monarchy_Islands_Schlammklaue_Towns_Nearheath_md.ajson
@@ -1808,14 +1808,14 @@ The Shattered Isles/
             World_Overview_Setting_&_Cosmology_Geography_United_Mortal_Pact_Islands_Veltharion_Reach_Veltharion_Reach_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_United_Mortal_Pact_Islands_Vermyrcove_Cities_Lupis_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_United_Mortal_Pact_Islands_Vermyrcove_Towns_Harpercourt_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_United_Mortal_Pact_Islands_Vermyrcove_Towns_Thýlakas_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_United_Mortal_Pact_Islands_Vermyrcove_Towns_ThÃ½lakas_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_United_Mortal_Pact_Islands_Vermyrcove_Vermyrcove_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_United_Mortal_Pact_Thaumaven_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_United_Mortal_Pact_United_Mortal_Pact_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Dämmerung_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_DÃ¤mmerung_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Aschekilima_Aschekilima_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Aschekilima_Cities_Abspielen_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Aschekilima_Cities_Dämmerung_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Aschekilima_Cities_DÃ¤mmerung_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Aschekilima_Cities_Fort_Kasgain_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Aschekilima_Cities_Zagenberg_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Aschekilima_Cities_Zwiebel_md.ajson
@@ -1823,7 +1823,7 @@ The Shattered Isles/
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Aschekilima_Towns_Telepis_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Aschekilima_Towns_Valleron_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Krallenga_Cities_Arnlboch_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Krallenga_Cities_Kürbis_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Krallenga_Cities_KÃ¼rbis_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Krallenga_Cities_Trottelham_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Krallenga_Krallenga_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Krallenga_Towns_Tater_Mond_md.ajson
@@ -1834,20 +1834,20 @@ The Shattered Isles/
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Mchamond_Towns_Donnernd_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Mchamond_Towns_Gipfel_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Virazorn_Cities_Himmelsse_md.ajson
-            World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Virazorn_Cities_Scheiße_md.ajson
+            World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Virazorn_Cities_ScheiÃŸe_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Virazorn_Towns_Boggenhaffem_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Virazorn_Towns_Dietershaften_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Islands_Virazorn_Virazorn_md.ajson
             World_Overview_Setting_&_Cosmology_Geography_Zonnewij_Isels_Zonnewij_Isels_md.ajson
-            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Châteaufeu_Châteaufeu_md.ajson
-            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Ashmouth_md.ajson
-            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Chute_Soleil_md.ajson
-            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Davin_Port_md.ajson
-            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Dernière_Lumière_md.ajson
-            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Ulvenwald_md.ajson
-            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Châteaufeu_Cities_Vante_md.ajson
-            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Châteaufeu_Towns_Hallowhenge_md.ajson
-            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Châteaufeu_Towns_Trostad_md.ajson
+            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_ChÃ¢teaufeu_md.ajson
+            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Ashmouth_md.ajson
+            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Chute_Soleil_md.ajson
+            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Davin_Port_md.ajson
+            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_DerniÃ¨re_LumiÃ¨re_md.ajson
+            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Ulvenwald_md.ajson
+            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Cities_Vante_md.ajson
+            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Towns_Hallowhenge_md.ajson
+            World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_ChÃ¢teaufeu_Towns_Trostad_md.ajson
             World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Ventsylis_Cities_Storm_Valley_md.ajson
             World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Ventsylis_Towns_Moorland_md.ajson
             World_Overview_Setting_&_Cosmology_Moonlight_Monarchy_Islands_Ventsylis_Towns_Tempest_md.ajson
@@ -1863,7 +1863,7 @@ The Shattered Isles/
             Ziataridge_md.ajson
             Zonnewij_Isels_md.ajson
             Zwiebel_md.ajson
-            Áine_md.ajson
+    Campaign Notes/
         smart_actions/
         smart_chat_threads/
         smart_completions/
@@ -1997,7 +1997,7 @@ The Shattered Isles/
     Magic Items & Artifacts/
         Crown of Daybreak/
         Fallen Stars/
-        Nerrath’s Artifacts/
+        Nerrathâ€™s Artifacts/
         Other Homebrew Items/
     Monsters & Encounters/
         Mutated Wildlife.md
@@ -2024,21 +2024,21 @@ The Shattered Isles/
             Geography/
                 Shattered Isles world Map season 2.png
                 The Shattered Isles.md
-                Gealaí Enclave/
-                    Gealaí Enclave.md
+                GealaÃ­ Enclave/
+                    GealaÃ­ Enclave.md
                     Pasted image 20250207174701.png
                     Islands/
-                        Corrán an Fháisce/
-                            Corrán an Fháisce.md
+                        CorrÃ¡n an FhÃ¡isce/
+                            CorrÃ¡n an FhÃ¡isce.md
                             Pasted image 20250207193448.png
                             Cities/
                                 Cennfinnan.md
                             Towns/
-                                Fodbgen an Fháisce.md
+                                Fodbgen an FhÃ¡isce.md
                                 Gann.md
                                 Genann.md
-                        Críoch Skolvar/
-                            Críoch Skolvar.md
+                        CrÃ­och Skolvar/
+                            CrÃ­och Skolvar.md
                             Pasted image 20250207200336.png
                             Cities/
                                 Thrasios.md
@@ -2077,45 +2077,45 @@ The Shattered Isles/
                                 Fodbgen an Drasiel.md
                                 Niamb.md
                                 Sreng.md
-                        Géag Karthul/
-                            Géag Karthul.md
+                        GÃ©ag Karthul/
+                            GÃ©ag Karthul.md
                             Pasted image 20250207195816.png
                             Cities/
                                 Midir.md
                                 Ogma.md
                             Towns/
                                 Elcmar.md
-                                Áine.md
-                        Géaga Dubha/
-                            Géaga Dubha.md
+                                Ãine.md
+                        GÃ©aga Dubha/
+                            GÃ©aga Dubha.md
                             Pasted image 20250207191823.png
                             Cities/
-                                Sadhéh.md
+                                SadhÃ©h.md
                             Towns/
                                 Aibell.md
                                 Bodbmall.md
                                 Leinster.md
-                        Inse Ghrífín/
-                            Inse Ghrífín.md
+                        Inse GhrÃ­fÃ­n/
+                            Inse GhrÃ­fÃ­n.md
                             Pasted image 20250207190253.png
                             Towns/
                                 Medb.md
                                 Rinnal.md
                                 Tailtiu.md
                                 Ziataridge.md
-                        Lámhchrúbacha/
-                            Lámhchrúbacha.md
+                        LÃ¡mhchrÃºbacha/
+                            LÃ¡mhchrÃºbacha.md
                             Pasted image 20250207191054.png
                             Cities/
                                 Ferrdiad.md
                                 Mugain.md
                             Towns/
                                 Fedelm.md
-                                Láeg.md
+                                LÃ¡eg.md
                                 Nera.md
-                        Súl Uiscekrin/
+                        SÃºl Uiscekrin/
                             Pasted image 20250207195119.png
-                            Súl Uiscekrin.md
+                            SÃºl Uiscekrin.md
                             Cities/
                                 Fiacha.md
                                 Tuirann.md
@@ -2124,21 +2124,21 @@ The Shattered Isles/
                     Pasted image 20250209151010.png
                     Thraben.md
                     Islands/
-                        Châteaufeu/
-                            Châteaufeu.md
+                        ChÃ¢teaufeu/
+                            ChÃ¢teaufeu.md
                             Pasted image 20250209151734.png
                             Cities/
                                 Ashmouth.md
                                 Chute Soleil.md
                                 Davin Port.md
-                                Dernière Lumière.md
+                                DerniÃ¨re LumiÃ¨re.md
                                 Ulvenwald.md
                                 Vante.md
                             Towns/
                                 Hallowhenge.md
                                 Trostad.md
-                        Dämmerblut Archipel/
-                            Dämmerblut Archipel.md
+                        DÃ¤mmerblut Archipel/
+                            DÃ¤mmerblut Archipel.md
                             Pasted image 20250209173128.png
                             Cities/
                                 New Mensis.md
@@ -2146,8 +2146,8 @@ The Shattered Isles/
                             Towns/
                                 Kainehurst.md
                                 Merde.md
-                        Févalis/
-                            Févalis.md
+                        FÃ©valis/
+                            FÃ©valis.md
                             Pasted image 20250209165936.png
                             Cities/
                                 Durbam Cathedral.md
@@ -2272,7 +2272,7 @@ The Shattered Isles/
                                 Lupis.md
                             Towns/
                                 Harpercourt.md
-                                Thýlakas.md
+                                ThÃ½lakas.md
                 Zonnewij Isels/
                     Pasted image 20250210035216.png
                     Zonnewij Isels.md
@@ -2282,7 +2282,7 @@ The Shattered Isles/
                             Pasted image 20250210035409.png
                             Cities/
                                 Abspielen.md
-                                Dämmerung.md
+                                DÃ¤mmerung.md
                                 Fort Kasgain.md
                                 Zagenberg.md
                                 Zwiebel.md
@@ -2295,7 +2295,7 @@ The Shattered Isles/
                             Pasted image 20250210041527.png
                             Cities/
                                 Arnlboch.md
-                                Kürbis.md
+                                KÃ¼rbis.md
                                 Trottelham.md
                             Towns/
                                 Tater Mond.md
@@ -2316,8 +2316,8 @@ The Shattered Isles/
                             Virazorn.md
                             Cities/
                                 Himmelsse.md
-                                Scheiße.md
+                                ScheiÃŸe.md
                             Towns/
                                 Boggenhaffem.md
                                 Dietershaften.md
->>>>>>> 868459c (ðŸ“‚ Add/update Obsidian vault files)
+>>>>>>> 868459c (Ã°Å¸â€œâ€š Add/update Obsidian vault files)
