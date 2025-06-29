@@ -2,7 +2,7 @@
 
 ## Errors and Issues
 
-- [[Shattered Isles Vault File Structure.txt]] contains unresolved merge conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`).
+- [x] Merge conflicts in [[Shattered Isles Vault File Structure.txt]] resolved.
 - Many notes end with stray terminal text like `root@...` indicating truncated file saves (e.g., [[Narazir's Personal Lab]], [[Porkery Buns]]).
 - Some notes use improper tag formatting without YAML frontmatter, starting with lines like `tags:`.
 - Several images are JPEGs instead of PNGs (`Nagissia idea.jpg`, `World Overview/Pantheon & Deities/Ashqua.jpg`).
