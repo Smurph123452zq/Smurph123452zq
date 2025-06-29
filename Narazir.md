@@ -1,4 +1,7 @@
-tags: Vedelkan, Graviturgey, Chaotic, Good, Sage, Quiet, Mountain, Spell, Thief, Archimage
+---
+title: Narazir
+tags: [#vedelkan, #graviturgey, #chaoticgood, #sage, #quietmountain, #spellthief, #archimage]
+---
 
 
 **Aliases:**  

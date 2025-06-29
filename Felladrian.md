@@ -1,4 +1,7 @@
-tags: #Zakk, #PaladinArtificer, #Human, #Mardu, #MercenaryVeteran, #AureneCandra, #DinStrider
+---
+title: Felladrian
+tags: [#zakk, #paladinartificer, #human, #mardu, #mercenaryveteran, #aurenecandra, #dinstrider]
+---
 
 # Player Name: Zakk
 

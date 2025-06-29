@@ -1,4 +1,7 @@
-tags: NPC
+---
+title: Riwena Lunarshard
+tags: [#npc]
+---
 
 [[NPC]]
 

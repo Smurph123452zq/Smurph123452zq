@@ -1,4 +1,7 @@
-tags: #Nate, #Siren, #Cleric, #Noble, #Shaheid, #MoonlightMonarchy
+---
+title: Ventri Gale-Thunder
+tags: [#nate, #siren, #cleric, #noble, #shaheid, #moonlightmonarchy]
+---
 
 # Player Name: Nate
 

@@ -1,4 +1,7 @@
-tags: #Eladrin, #Druid, #Outlander, #Zonnewij Isels, #Ulvenwald, #Herbalism, #Nethroi, Apex, Death
+---
+title: Aurene Candra
+tags: [#eladrin, #druid, #outlander, #zonnewij, #ulvenwald, #herbalism, #nethroi]
+---
 
 # Player: Eric
 

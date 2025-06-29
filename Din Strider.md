@@ -1,4 +1,7 @@
-tags: #DinStrider, #Halfling, #BarbarianMonk, #ChaoticGood, #Rebellion, #VentriGaleThunder, #NewSolarRepublic
+---
+title: Din Strider
+tags: [#dinstrider, #halfling, #barbarianmonk, #chaoticgood, #rebellion, #ventrigalethunder, #newsolarrepublic]
+---
 
 # Din Strider
 

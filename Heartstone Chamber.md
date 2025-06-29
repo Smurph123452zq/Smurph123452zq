@@ -1,4 +1,7 @@
-tags: #character, #DND, cities, towns, timeline, campaign, events
+---
+title: Heartstone Chamber
+tags: [#character, #dnd, #cities, #towns, #timeline, #campaign, #events]
+---
 
 
 

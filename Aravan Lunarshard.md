@@ -1,4 +1,7 @@
-tags: NPC, character, roleplaying, game, interaction
+---
+title: Aravan Lunarshard
+tags: [#npc, #character, #roleplaying, #game, #interaction]
+---
 
 [[NPC]]
 

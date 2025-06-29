@@ -1,4 +1,7 @@
-tags: #Jake, #Hobgoblin, #Vendetta, #Crystalized, #Nerrath, #Mumblebeard, #Goals
+---
+title: Igni
+tags: [#jake, #hobgoblin, #vendetta, #crystalized, #nerrath, #mumblebeard, #goals]
+---
 
 # Player Name; Jake
 
