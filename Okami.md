@@ -1,4 +1,7 @@
-tags: Here, relevant, keywords/short, phrases, note, tags:, #Character, #DND, #Traits, #Ideals, #Abilities, #History, #Relationships
+---
+title: Okami
+tags: [#character, #dnd, #traits, #ideals, #abilities, #history, #relationships]
+---
 
 # {{Character Name}}
 

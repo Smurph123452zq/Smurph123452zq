@@ -1,4 +1,7 @@
-tags: #ShadarKai, #RogueWizard, #Investigator, #ChaoticNeutral, #MoonlightMonarchy, #Espandor, #SilberkammIsles
+---
+title: Theer
+tags: [#shadarkai, #roguewizard, #investigator, #chaoticneutral, #moonlightmonarchy, #espandor, #silberkammisles]
+---
 
 # Player Name: Mark
 

@@ -1,4 +1,7 @@
-tags: #Jake, #Elf, #Rogue, #Criminal, #Naya, #Affiliations
+---
+title: Dren
+tags: [#jake, #elf, #rogue, #criminal, #naya, #affiliations]
+---
 
 # Player Name: Jake
 

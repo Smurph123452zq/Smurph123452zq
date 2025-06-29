@@ -1,4 +1,7 @@
-tags: Lunar, warriors, Nerrath's, sorrow, Shadow, frost, essence, Violent, resurgence, Frozen, armor, Spectral, mist, Undying
+---
+title: Shade
+tags: [#lunar, #warriors, #nerrath, #shadow, #frost, #essence, #violent, #resurgence, #frozen, #armor, #spectral, #mist, #undying]
+---
 
 ### **Shade**
 

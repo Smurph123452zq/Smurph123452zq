@@ -1,4 +1,7 @@
-tags: #Nate, #Dwarf, #WizardOsteomancer, #LawfulNeutral, #QuandrixStudent, #NewSolarRepublic, #StormValley
+---
+title: Mumblebeard
+tags: [#nate, #dwarf, #wizardosteomancer, #lawfulneutral, #quandrixstudent, #newsolarrepublic, #stormvalley]
+---
 
 # Player name: Nate
 

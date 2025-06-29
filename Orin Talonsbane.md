@@ -1,4 +1,7 @@
-tags: #AArakocra, #Paladin, #HauntedOne, #NewSolarRepublic, #BlossomVale, #ShatteredIsles
+---
+title: Orin Talonsbane
+tags: [#aarakocra, #paladin, #hauntedone, #newsolarrepublic, #blossomvale, #shatteredisles]
+---
 
 # Player Name: Andrew
 
