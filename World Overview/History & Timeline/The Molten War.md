@@ -1,4 +1,6 @@
-tags: Aftermath, Moonfall, Ashqua, Resurgence, Molten War, New Solar Republic, Moonlight Monarchy, Corrupted Citizens
+---
+tags: [history, molten-war]
+---
 
 ## Date
 
@@ -6,21 +8,11 @@ Approximately a decade after [[Moonfall]]
 
 ## Summary
 
-As [[Ashqua]]'s prison waned, the [[New Solar Republic]] declared war on the [[Moonlight Monarchy]].  
-For ten years her whispers twisted citizens into [[Molten]] thralls, turning them against their own.  
-Fighting raged in the skies and across [[Châteaufeu]], with battles flaring in [[Chute Soleil]], [[Vante]], [[Ulvenwald]], and [[Davin Port]].  
-Later clashes engulfed [[Hallowhenge]] and [[Thraben]]—the Monarchy's capital.  
-A band of heroes eventually disrupted Ashqua's hold, tipping the scales in favor of the Moonlight Monarchy.  
-Their victory led to the complete destruction of the New Solar Republic.
+As [[Ashqua]]'s prison waned, the [[New Solar Republic]] declared war on the [[Moonlight Monarchy]]. For ten years her whispers twisted citizens into [[Molten]] thralls. Fighting raged across [[Châteaufeu]] and the surrounding isles until heroes disrupted Ashqua's hold, leading to the Republic's destruction.
 
 ## Narrative
 
-Border clashes soon gave way to open war as Ashqua's whispers drove the Republic to fanatic fury.  
-[[Aurene Candra]], [[Dren]], [[Din Strider]], [[Felladrian]], [[Flux]], [[Igni]], [[Mumblebeard]], [[Narazir]], [[Okami]], [[Orin Talonsbane]], [[Theer]], and [[Ventri Gale-Thunder]] answered the Monarchy's call.  
-They discovered entire legions melted into searing soldiers, their minds shackled to Ashqua's will.  
-During the final siege, [[Mumblebeard]] wielded the [[Nerrath#The Heart of Nerrath|Heart of Nerrath]], its lunar radiance shielding the group from Ashqua's molten fury.  
-With Ashqua's grip broken, the Moonlight forces surged forward and wiped the Republic from the map.  
-The decade-long war ended with Ashqua weakened and her molten armies scattered to the winds.
+Border clashes soon gave way to open war as Ashqua's whispers drove the Republic to fanatic fury. [[Aurene Candra]], [[Dren]], [[Din Strider]], [[Felladrian]], [[Flux]], [[Igni]], [[Mumblebeard]], [[Narazir]], [[Okami]], [[Orin Talonsbane]], [[Theer]], and [[Ventri Gale-Thunder]] answered the Monarchy's call. During the final siege, [[Mumblebeard]] wielded the [[Nerrath#The Heart of Nerrath|Heart of Nerrath]], shielding the group from Ashqua's molten fury.
 
 ## Causes
 
@@ -30,39 +22,32 @@ The decade-long war ended with Ashqua weakened and her molten armies scattered t
 
 ## Key Events
 
-- Ashqua's influence spreads, gradually transforming citizens into Molten beings
+- Ashqua's influence spreads, transforming citizens into Molten beings
 - The New Solar Republic launches repeated assaults on Moonlight territory
 - Heroes intervene, weakening Ashqua's hold on the corrupted army
 - Final battle ends with the Moonlight Monarchy victorious and the Republic annihilated
 
 ## Major Battlefields
 
-Most of the fighting took place in the skies or on [[Châteaufeu]], with key engagements across the island:
-
-- [[Chute Soleil]]
-- [[Vante]]
-- [[Ulvenwald]]
-- [[Davin Port]]
-- [[Hallowhenge]]
-- [[Thraben]] — capital of the [[Moonlight Monarchy]]
+Most fighting occurred in the skies or on [[Châteaufeu]] with major engagements across [[Chute Soleil]], [[Vante]], [[Ulvenwald]], [[Davin Port]], [[Hallowhenge]], and [[Thraben]].
 
 ## Consequences
 
 - Ashqua's power wanes again, forced back into a weakened prison
-- The Moonlight Monarchy expands its influence across the shattered lands
-- Survivors from the Republic either flee or are hunted as remnants of the Molten
+- The Moonlight Monarchy expands its influence
+- Survivors from the Republic flee or are hunted as remnants of the Molten
 
 ## Notable Figures Involved
 
-- [[Ashqua]] — imprisoned sun goddess seeking freedom
+- [[Ashqua]]
 - Leaders of the [[Moonlight Monarchy]]
 - [[Aurene Candra]]
-- [[Dren]] (Drenari Lunarshard)
+- [[Dren]]
 - [[Din Strider]]
 - [[Felladrian]]
 - [[Flux]]
 - [[Igni]]
-- [[Mumblebeard]] (inheritor of the [[Nerrath#The Heart of Nerrath|Heart of Nerrath]])
+- [[Mumblebeard]]
 - [[Narazir]]
 - [[Okami]]
 - [[Orin Talonsbane]]
@@ -71,9 +56,9 @@ Most of the fighting took place in the skies or on [[Châteaufeu]], with key eng
 
 ## Legacy and Impact
 
-- The fall of the New Solar Republic reshapes political power across the [[Shattered Isles]]
+- The fall of the New Solar Republic reshapes political power
 - Fear of Ashqua's return drives renewed efforts to strengthen her prison
-- Stories of the heroes' sacrifice spread, inspiring resistance against divine tyranny
+- Stories of the heroes' sacrifice inspire resistance against divine tyranny
 
 ## Backlinks
 
@@ -81,3 +66,4 @@ Most of the fighting took place in the skies or on [[Châteaufeu]], with key eng
 - [[Ashqua]]
 - [[Molten]]
 - [[The Shattered Isles]]
+

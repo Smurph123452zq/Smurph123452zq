@@ -1,13 +1,10 @@
-tags: Ashqua, Apotheosis, Unwritten, Solar, Doctrine, High, Priestesses, Adviser, Mortal
+---
+tags: [npc, ashqua]
+---
 
-High Priestesses of the Solar Doctrine served as adviser to [[Ashqua]] when she was mortal, helped her achieve [[Apotheosis]] and member of the [[Unwritten]]
+High Priestesses of the Solar Doctrine who served as advisers to [[Ashqua]] when she was mortal. They helped her achieve [[Apotheosis]] and remain loyal members of the [[Unwritten]].
 
 ## Related Notes
-- [[The Tale of the Shattering]]
-- [[Ashqua]]
-- [[Ashqua]]
-- [[The Final Eclipse]]
+- [[Apotheosis]]
+- [[Unwritten]]
 
-## Backlinks
-- [[Ashqua]]
-- [[Outline]]
