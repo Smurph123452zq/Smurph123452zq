@@ -9,10 +9,10 @@
 - Finish writing for [[Work On this Later]]
 - Update session logs in [[Campaign Notes]]
 - Create more items and beasts in [[Bestiary & Reference]]
-- Link world history summaries in [[World Overview]]
-- Resolve merge conflicts in [[Shattered Isles Vault File Structure.txt]].
-- Remove stray terminal text from notes and ensure proper formatting.
-- Standardize note frontmatter with YAML and proper `#tags`.
+- [x] Link world history summaries in [[World Overview]]
+- [x] Resolve merge conflicts in [[Shattered Isles Vault File Structure.txt]].
+- [x] Remove stray terminal text from notes and ensure proper formatting.
+- [x] Standardize note frontmatter with YAML and proper `#tags`.
 - Convert `.jpg` images to `.png` (`Nagissia idea.jpg`, `Ashqua.jpg`).
 - [x] Rename [[Campagin Notes]] folder to `Campaign Notes`.
 - Correct spelling errors like "Lawful Netural" and "Crown of Dayn Break".

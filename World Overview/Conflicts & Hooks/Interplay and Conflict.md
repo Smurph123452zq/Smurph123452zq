@@ -1,3 +1,7 @@
+---
+tags: [faction, hooks]
+---
+
 # Interplay and Conflict
 Leadership: The roving Talon Council keeps watch over disputes
 Territory: Across nomadic routes and sacred caves
@@ -15,3 +19,4 @@ Main trade goods: N/A
 3. Escort [[Skybound Caravan]] through pirate skies to [[Galazeth]].
 4. Eclipse prophecy with [[Moonshadow Tribe]] seers.
 5. Hunt corrupted sky-shark with [[Hullsplitter Velric]].
+

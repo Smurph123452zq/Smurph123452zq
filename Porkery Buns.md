@@ -1,12 +1,13 @@
-tags: Here, relevant, tags, extracted, provided, text:, 1., Arakrokra, 2., Magda, 3., Glimmering, Grotto, 4., Dragon, farming, 5., Mineral, extraction, 6., Artisans, 7., Jewelry/weapons, crafting
+---
+tags: [business, magda]
+---
 
-Business' run by and arakrokra
+Business run by an aarakocra in [[Magda]] known for dragon farming, mineral extraction and crafting jewelry or weapons.
 
 ## Related Notes
-- [[Magda]]
-- [[Establishments of Interest in Magda]]
 - [[Brigid]]
 - [[Magda]]
 
 ## Backlinks
 - [[Flux]]
+
