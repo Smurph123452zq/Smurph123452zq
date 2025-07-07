@@ -1,7 +1,7 @@
 Session 4: Heart of the Garden
 
 Current Situation
-The party has defeated the spiderdragon before it could reach the deepest part of the Garden of Bones shrine. The lair still pulses with molten energy and unsettling whispers. The heroes stand at the threshold of the corrupted heart, with a chance to uncover the source of Magda's troubles.
+The party has defeated the spiderdragon before it could reach the deepest part of the Garden of Bones shrine. The lair still pulses with molten energy and unsettling whispers. Skeletal Khenra stand silently amid the bone-plants, stirred by the corruption. The heroes now face the shrine’s heart and the mystery behind these restless dead.
 
 Evidence suggests the Heartstone channels molten corruption to the dragon farms, creating ripple effects across [[Magda]]:
 * Minor mutations in farm animals.
@@ -18,6 +18,7 @@ Scene Breakdown
    * Allow players a brief rest to gather remains from the spiderdragon and patch wounds.
    * Clues on the corpse or in nearby webs hint at a deeper chamber (molten ichor flowing toward a crack, faint chanting echoes).
    * Optional skill checks: Survival or Investigation DC 12 to spot a hidden passage leading down.
+   * Silent Khenra skeletons watch from the garden. A polite greeting or offering grants a chance to learn about their devotion to [[Nerrath]]. Hostility leads to a brief skirmish using the Restless Khenra stat block.
 
 2. Descent Toward the Heart (30–40 min)
    * Hazard – Crumbling Tunnels: The path is unstable, dotted with fissures leaking molten fluid. Dex (Acrobatics) or Str (Athletics) DC 13 to navigate without sliding into small pits (1d6 fire damage on failure).

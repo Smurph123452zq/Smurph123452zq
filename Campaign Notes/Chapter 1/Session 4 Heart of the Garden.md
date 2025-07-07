@@ -1,17 +1,24 @@
 # Session 4: Heart of the Garden
 
 ## Current Situation
-The party has just routed the spiderdragon before it could reach the innermost shrine. Molten energy still bleeds from the walls and the heroes now stand at the threshold of the shrine's corrupted heart. Rumors point to the Heartstone here fueling troubles across [[Magda]].
+The party has just routed the spiderdragon before it could reach the innermost shrine. Molten energy still bleeds from the walls and the heroes now stand at the threshold of the shrine's corrupted heart. Silent **[[Restless Khenra]]** line the path—skeletal warriors of the Eclipse Wars whose bones were laid to rest beneath the garden. Rumors point to the Heartstone here fueling troubles across [[Magda]].
 
 ## Session Goals
 - Navigate the remaining passages leading to the heart chamber.
 - Overcome lingering guardians or traps protecting the molten altar.
 - Decide how to handle the desecrated Heartstone and gather clues for future adventures.
 
+### The Silent Guardians
+- Four pairs of [[Restless Khenra]] stand motionless among the bone-plants. Their cracked armor bears lunar symbols now marred by heat.
+- The skeletons awaken whenever the molten energy surges from deeper within the shrine. They are confused more than hostile.
+- Speaking respectfully in Khenra or offering a prayer to [[Nerrath]] allows a DC 11 Persuasion check to learn fragments of the garden's history.
+- Clues hint that the Heartstone’s corruption seeped in only recently—perhaps after a ritual by [[Ashqua]]'s cult or meddling from the [[Unwritten]].
+
 ## Phase 1: Aftermath & Preparation
 - Offer a short rest so characters can collect remains from the spiderdragon and mend wounds.
 - Searching the lair reveals clues: molten ichor flowing toward a narrow crack and faint chanting echoing below.
 - **Skill checks:** DC 12 Survival or Investigation to discover a hidden passage leading deeper.
+- The Khenra remain still unless provoked. Attempting peaceful contact or a DC 11 Religion or Persuasion check may reveal their plea to cleanse the shrine; hostility triggers combat with two pairs of Restless Khenra.
 
 ## Phase 2: Descent Toward the Heart
 - **Crumbling Tunnels:** The path is unstable with fissures leaking molten fluid. DC 13 Dexterity (Acrobatics) or Strength (Athletics) check to avoid slipping into pits (1d6 fire damage on a failure).
@@ -30,6 +37,7 @@ The party has just routed the spiderdragon before it could reach the innermost s
   - *Destroy the Heartstone:* Requires focused effort (skill checks or direct attacks) and risks a violent eruption—Dexterity saves to avoid the backlash.
   - *Remove or Seal It:* Experiment with magic or tools to extract the stone, perhaps using runes learned earlier. This may stabilize the area but draws unknown attention.
   - *Leave It Be:* Preserve it for study by [[Lorekeepers]] or the [[Stonecarvers’ Guild]].
+- *Appease the Dead:* Perform a short rite to lay the Khenra bones to rest, granting the party advantage on one Wisdom check in the garden.
 - **Loot Ideas:** Obsidian shards worth moderate coin, the broken tablet, and salvageable molten glands from the effigy.
 
 ## Object Lore & Leads
@@ -48,6 +56,9 @@ The party has just routed the spiderdragon before it could reach the innermost s
 - **Fused Bone Relics:** Twisted bones hinting at ancient draconic shrines.
     - Research may unlock forgotten histories or secret locations.
     - Wearing a bone charm grants advantage on saves against fear for one day.
+- **Moon-Touched Bones:** Remains of the Restless Khenra.
+    - Bury them in moonlight to earn Nerrath’s blessing—advantage on one Wisdom save within the shrine.
+    - Powdered fragments can fuel a one-time *speak with dead* ritual or brew a dream-vision potion.
 
 ## Closing Questions for Players
 - How does confronting the Heartstone change your view of the corruption in [[Magda]]?
