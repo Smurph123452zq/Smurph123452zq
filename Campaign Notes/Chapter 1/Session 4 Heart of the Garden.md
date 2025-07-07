@@ -16,12 +16,12 @@ The party has just routed the spiderdragon before it could reach the innermost s
 ## Phase 2: Descent Toward the Heart
 - **Crumbling Tunnels:** The path is unstable with fissures leaking molten fluid. DC 13 Dexterity (Acrobatics) or Strength (Athletics) check to avoid slipping into pits (1d6 fire damage on a failure).
 - **Strange Whispers:** DC 13 Wisdom (Perception) to hear voices urging them to feed the heart. Failing by 5 or more imposes disadvantage on the next check due to unsettling visions.
-- **Molten Spiders:** 1–2 corrupted giant spiders cling to the ceiling (use Giant Spider stats with an extra 1d4 fire damage on bite or web).
+- **[[Molten Giant Spider|Molten Spiders]]:** 1–2 corrupted giant spiders cling to the ceiling (use Giant Spider stats with an extra 1d4 fire damage on bite or web).
 
 ## Phase 3: The Heart Chamber
 - **Description:** A vast cavity houses a pulsating mass of obsidian and crystalline bone—the Molten Heartstone—set atop a twisted altar of fused bones. Streams of molten energy seep through cracks.
 - **Environmental Effects:** Bubbling magma pockets (2d6 fire damage) and thick smoke requiring a DC 13 Constitution save or become poisoned for 1 minute.
-- **Guardian:** A "Molten Effigy" forms from the altar (reskin a Mephit with extra hit points and a short-range magma burst).
+- **Guardian:** A "[[Molten Effigy]]" forms from the altar (reskin a Mephit with extra hit points and a short-range magma burst).
 - **Challenge:** Defeating or bypassing the effigy while avoiding hazards. Encourage creative tactics—redirect energy flows, topple bone pillars, or leverage spiderdragon remains.
 
 ## Phase 4: Discovery & Choice
@@ -33,11 +33,21 @@ The party has just routed the spiderdragon before it could reach the innermost s
 - **Loot Ideas:** Obsidian shards worth moderate coin, the broken tablet, and salvageable molten glands from the effigy.
 
 ## Object Lore & Leads
-- **Heartstone Shards:** Residual molten energy could be forged into potent weapons or provide clues about the forces of [[Ashqua]].
-- **Obsidian Tablet:** Matching pieces might exist in [[Iheen's Grand Library]].
-- **Molten Glands:** Alchemists in [[Magda]] or the [[Stonecarvers’ Guild]] will pay handsomely.
-- **Spiderdragon Remains:** Venom sacs and fangs create unique poisons.
-- **Fused Bone Relics:** Evidence of ancient draconic shrines predating the town.
+- **Heartstone Shards:** Fragments brimming with lingering fire energy.
+    - Forge a blade or tool with a DC 14 Smith's Tools check to add **+1 fire damage** on hits.
+    - Study them to trace [[Ashqua]]'s influence or power fire‑based rituals.
+- **Obsidian Tablet:** Broken pieces etched with the "garden" ritual.
+    - Combining fragments might reveal how to cleanse—or amplify—the Heartstone.
+    - Scholars at [[Iheen's Grand Library]] trade coin or lore favors for each shard.
+- **Molten Glands:** Harvested from fiery beasts and the [[Molten Effigy]].
+    - Distill into volatile firebombs or protective salves that resist heat.
+    - Ritualists in [[Magda]] or the [[Stonecarvers’ Guild]] will pay handsomely for them.
+- **Spiderdragon Remains:** Venom sacs and fangs perfect for alchemy.
+    - Craft poisons (DC 13) that deal 1d4 extra poison damage when applied to weapons.
+    - The fangs double as macabre trophies or intimidating ritual tools.
+- **Fused Bone Relics:** Twisted bones hinting at ancient draconic shrines.
+    - Research may unlock forgotten histories or secret locations.
+    - Wearing a bone charm grants advantage on saves against fear for one day.
 
 ## Closing Questions for Players
 - How does confronting the Heartstone change your view of the corruption in [[Magda]]?
