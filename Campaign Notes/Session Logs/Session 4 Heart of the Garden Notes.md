@@ -1,7 +1,7 @@
 Session 4: Heart of the Garden
 
 Current Situation
-The party has defeated the spiderdragon before it could reach the deepest part of the Garden of Bones shrine. The lair still pulses with molten energy and unsettling whispers. The heroes stand at the threshold of the corrupted heart, with a chance to uncover the source of Magda's troubles.
+The party has defeated the spiderdragon before it could reach the deepest part of the Garden of Bones shrine. The lair still pulses with molten energy and unsettling whispers. Skeletal Khenra stand silently amid the bone-plants, stirred by the corruption. These warriors once tended the garden for [[Nerrath]], and their sudden reawakening hints at foul rituals below. The heroes now face the shrine’s heart and the mystery behind these restless dead.
 
 Evidence suggests the Heartstone channels molten corruption to the dragon farms, creating ripple effects across [[Magda]]:
 * Minor mutations in farm animals.
@@ -18,6 +18,7 @@ Scene Breakdown
    * Allow players a brief rest to gather remains from the spiderdragon and patch wounds.
    * Clues on the corpse or in nearby webs hint at a deeper chamber (molten ichor flowing toward a crack, faint chanting echoes).
    * Optional skill checks: Survival or Investigation DC 12 to spot a hidden passage leading down.
+   * Silent Khenra skeletons watch from the garden. A polite greeting or offering grants a chance to learn about their devotion to [[Nerrath]]. They speak of "embers leaking from the sacred stone" before lapsing into silence. Hostility leads to a brief skirmish using the Restless Khenra stat block.
 
 2. Descent Toward the Heart (30–40 min)
    * Hazard – Crumbling Tunnels: The path is unstable, dotted with fissures leaking molten fluid. Dex (Acrobatics) or Str (Athletics) DC 13 to navigate without sliding into small pits (1d6 fire damage on failure).
@@ -39,11 +40,11 @@ Scene Breakdown
     * Provide flavorful loot: shards of obsidian worth modest coin, the obsidian tablet, and salvageable molten glands from the effigy.
 
 Object Lore & Player Leads
-* **Heartstone Shards:** Fragments of the altar hold lingering molten energy. They could be forged into potent weapons or studied for clues about [[Ashqua]].
+* **Heartstone Shards:** Fragments of the altar hold lingering molten energy. They could be forged into potent weapons or studied for clues about [[Ashqua]]. A DC 13 Arcana check hints that they resonate with [[Nerrath#The Heart of Nerrath|lunar fragments]].
 * **Obsidian Tablet:** Broken lines reference "nurturing the garden." Matching pieces may surface in [[Iheen's Grand Library]].
-* **Molten Glands:** Harvested from the effigy or warped beasts. Alchemists in [[Magda]] or the [[Stonecarvers’ Guild]] might pay dearly.
+* **Molten Glands:** Harvested from the effigy or warped beasts. Alchemists in [[Magda]] or the [[Stonecarvers’ Guild]] might pay dearly. Ground into oil, they reveal hidden portals when smeared across stone.
 * **Spiderdragon Remains:** Venom sacs and fangs fetch a good price or form the basis for unique poisons.
-* **Fused Bone Relics:** Bones fused with obsidian hint at draconic shrines predating the town; investigating them could reveal hidden history.
+* **Fused Bone Relics:** Bones fused with obsidian hint at draconic shrines predating the town; investigating them could reveal hidden history. Scholars suspect these shards resonate with the [[Eyes of Nerrath]].
 
 Closing Questions for Players
 * How does confronting the Heartstone affect your character's view of the corruption in Magda?
