@@ -5,3 +5,4 @@ during the short rest [[Eldar Grelamin]] cooks some eyeball mushroom he gathered
 i as the dm did not make good use of the The Spiderdragon's Role & Tactics
 i decided on the humanoid figure in the Garden of bones to be pairs of skeletal Khenra
 don't remember many details about the fight other than 
+See also [[Garden of Bones Shrine]].
