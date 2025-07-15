@@ -1,3 +1,4 @@
+See also [[Garden of Bones Shrine]].
 Session 4: Heart of the Garden
 
 Current Situation
