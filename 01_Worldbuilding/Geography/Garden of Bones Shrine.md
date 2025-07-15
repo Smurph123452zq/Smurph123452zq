@@ -11,6 +11,7 @@ An ancient cavern hidden beneath [[Magda]], once a sacred cradle where Nerrath's
 ## Current State
 - Faint moonlight lingers in corners untouched by molten growth, offering solace to those who oppose corruption.
 - The bone growths echo with whispers — some benevolent, others tainted by fiery influence.
+- **Forgotten Site:** Generations of cave-ins and secrecy erased the shrine from [[Magda]]'s collective memory. Few surface dwellers suspect it exists at all.
 
 ## Related Notes
 - [[Nerrath]]
