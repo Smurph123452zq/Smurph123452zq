@@ -1,3 +1,4 @@
+See also [[Garden of Bones Shrine]].
 Session 4: Heart of the Garden
 
 Current Situation
@@ -50,3 +51,6 @@ Closing Questions for Players
 * How does confronting the Heartstone affect your character's view of the corruption in Magda?
 * What do you plan to do with the artifacts and knowledge gained here?
 * Who in Magda (or beyond) might you trust—or fear—when revealing what you've discovered?
+
+## Aftermath
+The party returns to the surface of [[Magda]] after Ashqua's ominous address to Eldar. The townsfolk know nothing of the Garden of Bones—the passage has been hidden for generations.
