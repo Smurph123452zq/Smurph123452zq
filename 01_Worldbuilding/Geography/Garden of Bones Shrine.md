@@ -1,5 +1,3 @@
-tags: location, GardenOfBones, Nerrath, Ashqua, Shade
-
 # Garden of Bones Shrine
 
 An ancient cavern hidden beneath [[Magda]], once a sacred cradle where Nerrath's shades were born. Bone-like growths and lunar symbols mark the age of her worship here.
