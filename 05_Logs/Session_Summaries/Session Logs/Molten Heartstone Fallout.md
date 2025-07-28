@@ -9,6 +9,7 @@ When the whispers from the molten heartstone charmed [[Skarhn]] and [[Hallar]], 
 - **Ashqua's Attention:** Eldar's interference draws the gaze of [[Ashqua]], increasing the chance that her cultists or corrupted creatures target him in future scenes.
 - **Nerrath's Gratitude:** Because Skarhn and Hallar resisted the corruption, the shrine briefly glowed with silver light. Each earned [[Nerrath's Moonlit Favor]].
 - **Escalating Corruption:** Without a sacrifice to drain power, the heartstone bleeds unchecked. Wildlife around [[Magda]] warps faster, and locals whisper of haunting dreams and sudden flames.
+- **Return to the Surface:** After Ashqua's voice lashed Eldar, the party retreated back to [[Magda]]. Townsfolk remain unaware of the Garden of Bones—its tunnels were forgotten centuries ago.
 
 ## Related Notes
 - [[Garden of Bones Shrine]]
