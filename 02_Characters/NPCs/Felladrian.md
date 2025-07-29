@@ -1,8 +1,4 @@
----
-title: Felladrian
-tags: [#zakk, #paladinartificer, #human, #mardu, #mercenaryveteran, #aurenecandra, #dinstrider]
----
-
+was a previous player character
 # Player Name: Zakk
 
 **Aliases:**  
@@ -44,27 +40,3 @@ tags: [#zakk, #paladinartificer, #human, #mardu, #mercenaryveteran, #aurenecandr
 
 ## 🗂️ Notes & Trivia  
 - Fun facts, inspirations, or additional details.  
-
----
-**Tags:** `#character #DND` (or adjust for your system)  
-
-
-## Related Notes
-- [[Orin Talonsbane]]
-- [[Ventri Gale-Thunder]]
-- [[Mumblebeard]]
-- [[Din Strider]]
-
-## Backlinks
-- [[Aurene Candra]]
-- [[Din Strider]]
-- [[Dren]]
-- [[Flux]]
-- [[Igni]]
-- [[Mumblebeard]]
-- [[Narazir]]
-- [[Okami]]
-- [[Orin Talonsbane]]
-- [[Player Characters Season 2]]
-- [[Theer]]
-- [[Ventri Gale-Thunder]]

@@ -1,8 +1,4 @@
----
-title: Theer
-tags: [#shadarkai, #roguewizard, #investigator, #chaoticneutral, #moonlightmonarchy, #espandor, #silberkammisles]
----
-
+was a previous player character
 # Player Name: Mark
 
 **Aliases:**  
@@ -47,27 +43,3 @@ Trained in magic by a will o wisp
 
 ## 🗂️ Notes & Trivia  
 - Fun facts, inspirations, or additional details.  
-
----
-**Tags:** `#character #DND` (or adjust for your system)  
-
-
-## Related Notes
-- [[Ventri Gale-Thunder]]
-- [[Orin Talonsbane]]
-- [[Narazir]]
-- [[Flux]]
-
-## Backlinks
-- [[Aurene Candra]]
-- [[Din Strider]]
-- [[Dren]]
-- [[Felladrian]]
-- [[Flux]]
-- [[Igni]]
-- [[Mumblebeard]]
-- [[Narazir]]
-- [[Okami]]
-- [[Orin Talonsbane]]
-- [[Player Characters Season 2]]
-- [[Ventri Gale-Thunder]]

@@ -1,5 +1,3 @@
-tags: Here, keywords/short, phrases, extracted, tags:, 1., Cave, Systems, 2., Structural, Integrity, 3., Communal, Living, 4., Stoneworking, 5., Geology, 6., Tunnel, Network, 7., Energy, Fluctuations
-
 **Role & Responsibilities:** The [[Stone Wardens]] are responsible for maintaining the cave systems of [[Magda]], ensuring structural integrity and safety. They are one of the major social classes within the city, emphasizing communal living and shared responsibility. 
 
 **Notable Members:** [[Torvin Stonebeard]] is currently the Cave Warden Captain, a stoic Dwarf in charge of the wardens.

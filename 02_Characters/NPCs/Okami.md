@@ -1,8 +1,4 @@
----
-title: Okami
-tags: [#character, #dnd, #traits, #ideals, #abilities, #history, #relationships]
----
-
+was a previous player character
 # {{Character Name}}
 
 **Aliases:**  
@@ -54,30 +50,3 @@ A detailed backstory covering their past, key events, and how they came to be wh
 ## 🗂️ Notes & Trivia  
 - Fun facts, inspirations, or additional details.  
 
----
-**Tags:** `#character #DND` (or adjust for your system)  
-
-
-## Related Notes
-- [[Jesamine Edrah]]
-- [[Igni]]
-- [[Din Strider]]
-- [[Narazir]]
-
-## Backlinks
-- [[Aurene Candra]]
-- [[Character Template]]
-- [[Din Strider]]
-- [[Dren]]
-- [[Felladrian]]
-- [[Flam]]
-- [[Flim]]
-- [[Flux]]
-- [[Igni]]
-- [[Jesamine Edrah]]
-- [[Mumblebeard]]
-- [[Narazir]]
-- [[Orin Talonsbane]]
-- [[Player Characters Season 2]]
-- [[Theer]]
-- [[Ventri Gale-Thunder]]

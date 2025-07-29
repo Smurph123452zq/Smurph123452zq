@@ -50,17 +50,3 @@ A detailed backstory covering their past, key events, and how they came to be wh
 
 ## 🗂️ Notes & Trivia  
 - Fun facts, inspirations, or additional details.  
-
-
-## Related Notes
-- [[Flim]]
-- [[Flam]]
-- [[Okami]]
-- [[Okami]]
-
-## Backlinks
-- [[Character Template]]
-- [[Flam]]
-- [[Flim]]
-- [[Okami]]
-- [[NPC]]

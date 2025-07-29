@@ -1,7 +1,4 @@
----
-title: Narazir
-tags: [#vedelkan, #graviturgey, #chaoticgood, #sage, #quietmountain, #spellthief, #archimage]
----
+was a previous player character
 
 
 **Aliases:**  
@@ -42,28 +39,3 @@ Charmed by [[Flim]] and [[Flam]]
 ## 🗂️ Notes & Trivia  
 - Fun facts, inspirations, or additional details.
 His Uncle taught him how to cook Meth
-
----
-**Tags:** `#character #DND` (or adjust for your system)  
-
-
-## Related Notes
-- [[Flux]]
-- [[Theer]]
-- [[Din Strider]]
-
-## Backlinks
-- [[Aurene Candra]]
-- [[Din Strider]]
-- [[Dren]]
-- [[Felladrian]]
-- [[Flux]]
-- [[Igni]]
-- [[Kuzu]]
-- [[Mumblebeard]]
-- [[Okami]]
-- [[Orin Talonsbane]]
-- [[Player Characters Season 2]]
-- [[Theer]]
-- [[Ventri Gale-Thunder]]
-- [[Narazir's Personal Lab]]

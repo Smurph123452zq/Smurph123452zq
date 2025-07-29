@@ -1,7 +1,4 @@
----
-title: Din Strider
-tags: [#dinstrider, #halfling, #barbarianmonk, #chaoticgood, #rebellion, #ventrigalethunder, #newsolarrepublic]
----
+was a previous player character
 
 # Din Strider
 
@@ -46,26 +43,3 @@ Staged a rebellion in the [[New Solar Republic]] and murderd a noble meet [[Vent
 
 ## 🗂️ Notes & Trivia  
 - Fun facts, inspirations, or additional details.  
-
----
-**Tags:** `#character #DND` (or adjust for your system)  
-
-
-## Related Notes
-- [[Theer]]
-- [[Narazir]]
-- [[Felladrian]]
-
-## Backlinks
-- [[Aurene Candra]]
-- [[Dren]]
-- [[Felladrian]]
-- [[Flux]]
-- [[Igni]]
-- [[Mumblebeard]]
-- [[Narazir]]
-- [[Okami]]
-- [[Orin Talonsbane]]
-- [[Player Characters Season 2]]
-- [[Theer]]
-- [[Ventri Gale-Thunder]]

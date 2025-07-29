@@ -1,7 +1,4 @@
----
-title: Mumblebeard
-tags: [#nate, #dwarf, #wizardosteomancer, #lawfulneutral, #quandrixstudent, #newsolarrepublic, #stormvalley]
----
+was a previous player character
 
 # Player name: Nate
 
@@ -49,27 +46,3 @@ Once a scholar of the [[New Solar Republic]], Mumblebeard fled during [[The Molt
 
 ## 🗂️ Notes & Trivia  
 - Fun facts, inspirations, or additional details.  
-
----
-**Tags:** `#character #DND` (or adjust for your system)  
-
-
-## Related Notes
-- [[Ventri Gale-Thunder]]
-- [[Felladrian]]
-- [[Orin Talonsbane]]
-- [[Theer]]
-
-## Backlinks
-- [[Aurene Candra]]
-- [[Din Strider]]
-- [[Dren]]
-- [[Felladrian]]
-- [[Flux]]
-- [[Igni]]
-- [[Narazir]]
-- [[Okami]]
-- [[Orin Talonsbane]]
-- [[Player Characters Season 2]]
-- [[Theer]]
-- [[Ventri Gale-Thunder]]

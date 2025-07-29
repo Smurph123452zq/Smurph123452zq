@@ -1,7 +1,4 @@
----
-title: Ventri Gale-Thunder
-tags: [#nate, #siren, #cleric, #noble, #shaheid, #moonlightmonarchy]
----
+was a previous player character
 
 # Player Name: Nate
 
@@ -48,26 +45,3 @@ Siblings
 
 ## 🗂️ Notes & Trivia  
 - Fun facts, inspirations, or additional details.  
-
----
-**Tags:** `#character #DND` (or adjust for your system)  
-
-
-## Related Notes
-- [[Shade]]
-- [[Narazir]]
-- [[Nerrath]]
-
-## Backlinks
-- [[Aurene Candra]]
-- [[Din Strider]]
-- [[Dren]]
-- [[Felladrian]]
-- [[Flux]]
-- [[Igni]]
-- [[Mumblebeard]]
-- [[Narazir]]
-- [[Okami]]
-- [[Orin Talonsbane]]
-- [[Player Characters Season 2]]
-- [[Theer]]

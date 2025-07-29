@@ -2,7 +2,7 @@
 
 tags: GardenOfBones, Heartstone, Ashqua, Consequence
 
-When the whispers from the molten heartstone charmed [[Skarhn]] and [[Hallar]], [[Eldar Grelamin]] seized the orb to keep them from touching it. Their allies helped them break free, denying the stone a sacrifice and unleashing dangerous repercussions:
+When the whispers from the molten heartstone charmed [[Skarhn Runefall]] and [[Hallar]], [[Eldar Grelamin]] seized the orb to keep them from touching it. Their allies helped them break free, denying the stone a sacrifice and unleashing dangerous repercussions:
 
 - **Lingering Voices:** The charmed character continues to hear faint whispers for days, suffering disadvantage on Wisdom saving throws until cleansed.
 - **Awakened Defenses:** The shrine shudders with molten energy, reanimating nearby [[Restless Khenra]] or conjuring a [[Molten Effigy]] unless the heartstone is sealed.

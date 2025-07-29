@@ -11,10 +11,8 @@ Married to  [[Eredarai Lunarshard]]
 ## Related Notes
 - [[Eredarai Lunarshard]]
 - [[Dren]]
-- [[Dren]]
 - [[Player Characters Season 2]]
 
 ## Backlinks
 - [[Dren]]
 - [[Eredarai Lunarshard]]
-- [[NPC]]

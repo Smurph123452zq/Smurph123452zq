@@ -1,7 +1,6 @@
----
-title: Shade
+
 tags: [#lunar, #warriors, #nerrath, #shadow, #frost, #essence, #violent, #resurgence, #frozen, #armor, #spectral, #mist, #undying]
----
+
 
 ### **Shade**
 
@@ -42,11 +41,4 @@ While [[Molten]] charge with reckless fury, Shades prefer to **isolate, weaken, 
 
 ## Related Notes
 - [[Nerrath]]
-
-## Backlinks
-- [[Ventri Gale-Thunder]]
-- [[Lunar Dominion]]
-- [[The Tale of the Shattering]]
-- [[Naya]]
 - [[The Eclipse Wars]]
-- [[Work On this Later]]

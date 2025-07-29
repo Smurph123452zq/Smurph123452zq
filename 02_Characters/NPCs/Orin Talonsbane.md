@@ -1,7 +1,4 @@
----
-title: Orin Talonsbane
-tags: [#aarakocra, #paladin, #hauntedone, #newsolarrepublic, #blossomvale, #shatteredisles]
----
+was a previous player character
 
 # Player Name: Andrew
 
@@ -43,27 +40,3 @@ tags: [#aarakocra, #paladin, #hauntedone, #newsolarrepublic, #blossomvale, #shat
 
 ## 🗂️ Notes & Trivia  
 - Fun facts, inspirations, or additional details.  
-
----
-**Tags:** `#character #DND` (or adjust for your system)  
-
-
-## Related Notes
-- [[Felladrian]]
-- [[Ventri Gale-Thunder]]
-- [[Mumblebeard]]
-- [[Aurene Candra]]
-
-## Backlinks
-- [[Aurene Candra]]
-- [[Din Strider]]
-- [[Dren]]
-- [[Felladrian]]
-- [[Flux]]
-- [[Igni]]
-- [[Mumblebeard]]
-- [[Narazir]]
-- [[Okami]]
-- [[Player Characters Season 2]]
-- [[Theer]]
-- [[Ventri Gale-Thunder]]

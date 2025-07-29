@@ -1,8 +1,4 @@
----
-title: Igni
-tags: [#jake, #hobgoblin, #vendetta, #crystalized, #nerrath, #mumblebeard, #goals]
----
-
+was a previous player character
 # Player Name; Jake
 
 **Aliases:**  
@@ -53,27 +49,3 @@ Helped save a sick child in [[Crystal Cove]] the family's name was Storm Wind
 
 ## 🗂️ Notes & Trivia  
 - Fun facts, inspirations, or additional details.  
-
----
-**Tags:** `#character #DND` (or adjust for your system)  
-
-
-## Related Notes
-- [[Dren]]
-- [[Okami]]
-- [[Ventri Gale-Thunder]]
-- [[Mumblebeard]]
-
-## Backlinks
-- [[Aurene Candra]]
-- [[Din Strider]]
-- [[Dren]]
-- [[Felladrian]]
-- [[Flux]]
-- [[Mumblebeard]]
-- [[Narazir]]
-- [[Okami]]
-- [[Orin Talonsbane]]
-- [[Player Characters Season 2]]
-- [[Theer]]
-- [[Ventri Gale-Thunder]]

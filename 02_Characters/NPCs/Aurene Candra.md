@@ -1,8 +1,4 @@
----
-title: Aurene Candra
-tags: [#eladrin, #druid, #outlander, #zonnewij, #ulvenwald, #herbalism, #nethroi]
----
-
+was a previous player character
 # Player: Eric
 
 **Aliases:**  
@@ -49,29 +45,3 @@ Started their traning in [[The Quite Mountain]] quickly proved them selfs with p
 
 ## 🗂️ Notes & Trivia  
 - Fun facts, inspirations, or additional details.  
-
----
-**Tags:** `#character #DND` (or adjust for your system)  
-
-
-## Related Notes
-- [[Mumblebeard]]
-- [[Orin Talonsbane]]
-- [[Felladrian]]
-- [[Theer]]
-
-## Backlinks
-- [[Din Strider]]
-- [[Dren]]
-- [[Felladrian]]
-- [[Flux]]
-- [[Igni]]
-- [[Jesamine Edrah]]
-- [[Mumblebeard]]
-- [[Narazir]]
-- [[Okami]]
-- [[Orin Talonsbane]]
-- [[Player Characters Season 2]]
-- [[Theer]]
-- [[Ventri Gale-Thunder]]
-- [[NPC]]

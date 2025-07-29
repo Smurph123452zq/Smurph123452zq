@@ -1,7 +1,4 @@
----
-title: Dren
-tags: [#jake, #elf, #rogue, #criminal, #naya, #affiliations]
----
+was a previous player character
 
 # Player Name: Jake
 
@@ -54,26 +51,3 @@ Siblings
 - Fun facts, inspirations, or additional details.  
 
 ---
-**Tags:** `#character #DND` (or adjust for your system)  
-
-
-## Related Notes
-- [[Mumblebeard]]
-- [[Ventri Gale-Thunder]]
-- [[Theer]]
-
-## Backlinks
-- [[Aurene Candra]]
-- [[Din Strider]]
-- [[Drisraste Lunarshard]]
-- [[Eredarai Lunarshard]]
-- [[Felladrian]]
-- [[Flux]]
-- [[Igni]]
-- [[Mumblebeard]]
-- [[Narazir]]
-- [[Okami]]
-- [[Orin Talonsbane]]
-- [[Player Characters Season 2]]
-- [[Theer]]
-- [[Ventri Gale-Thunder]]

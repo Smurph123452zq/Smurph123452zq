@@ -54,12 +54,3 @@ A detailed backstory covering their past, key events, and how they came to be wh
 
 ## Related Notes
 - [[Flam]]
-- [[Jesamine Edrah]]
-- [[Okami]]
-- [[Character Template]]
-
-## Backlinks
-- [[Character Template]]
-- [[Flam]]
-- [[Jesamine Edrah]]
-- [[Narazir]]

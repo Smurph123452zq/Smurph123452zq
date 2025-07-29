@@ -10,11 +10,7 @@ Married to [[Drisraste Lunarshard]]
 
 ## Related Notes
 - [[Drisraste Lunarshard]]
-- [[Dren]]
-- [[Dren]]
-- [[Dren]]
 
 ## Backlinks
 - [[Dren]]
 - [[Drisraste Lunarshard]]
-- [[NPC]]

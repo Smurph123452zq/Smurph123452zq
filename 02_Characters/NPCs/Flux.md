@@ -1,7 +1,4 @@
-tags: Water, Genasi, Sorcerer(Wild-Magic), New, Solar, Republic, Last, Hope, Bad, Lands, Songs, Creation, Porkery, Buns
-
-
-
+was a previous player character
 **Aliases:**  
 **Race:**  Water Genasi
 **Class/Occupation:**  Sorcerer(Wild-Magic)
@@ -46,26 +43,3 @@ N/A
 - Fun facts, inspirations, or additional details.  
 Is a shill for [[Porkery Buns]] and has a hot pink cloak of displacement
 When Flux Dies their will be a small religious cult that will follow his teachings
----
-**Tags:** `#character #DND` (or adjust for your system)  
-
-
-## Related Notes
-- [[Narazir]]
-- [[Player Characters Season 2]]
-- [[Ventri Gale-Thunder]]
-
-## Backlinks
-- [[Aurene Candra]]
-- [[Din Strider]]
-- [[Dren]]
-- [[Felladrian]]
-- [[Igni]]
-- [[Koda]]
-- [[Mumblebeard]]
-- [[Narazir]]
-- [[Okami]]
-- [[Orin Talonsbane]]
-- [[Player Characters Season 2]]
-- [[Theer]]
-- [[Ventri Gale-Thunder]]

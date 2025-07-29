@@ -6,7 +6,7 @@ Those who resist the whispers of corruption within the [[Garden of Bones]] earn 
 
 *When mind and will prevail over molten temptation, Nerrath offers a soft gleam of guidance.*
 
-- **Recipients:** [[Skarhn]], [[Hallar]]
+- **Recipients:** [[Skarhn Runefall]], [[Hallar]]
 - **Effect:** Each gains a fleeting blessing of moonlight. For the next adventure, they have advantage on saving throws against being charmed and add **+1 Light**.
 - **Flair:** A cool shimmer outlines their forms whenever shadow falls across them, a sign of Nerrath's lingering protection.
 

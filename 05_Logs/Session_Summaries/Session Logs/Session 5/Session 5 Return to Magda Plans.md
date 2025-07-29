@@ -3,7 +3,7 @@ See also [[Molten Heartstone Fallout]].
 Session 5: Return to Magda
 
 Current Situation
-After retreating from the [[Garden of Bones Shrine]], the party emerges near [[Magda]]. Ashqua's scorching proclamation still rings in [[Eldar Grelamin]]'s ears, promising him fiery power. Meanwhile, fleeting silver shimmers remind [[Skarhn]] and [[Hallar]] that [[Nerrath]] watches with approval.
+After retreating from the [[Garden of Bones Shrine]], the party emerges near [[Magda]]. Ashqua's scorching proclamation still rings in [[Eldar Grelamin]]'s ears, promising him fiery power. Meanwhile, fleeting silver shimmers remind [[Skarhn Runefall]] and [[Hallar]] that [[Nerrath]] watches with approval.
 
 Session Goal
 * Reorient in Magda and decide how to handle the corruption spreading from the shrine.
