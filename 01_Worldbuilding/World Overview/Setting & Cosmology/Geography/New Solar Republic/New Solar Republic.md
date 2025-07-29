@@ -36,3 +36,5 @@ Islands
 - **Lost treasures:** Ancient vaults beneath Vantress or the Ashqua Citadel may hold powerful artifacts or secrets of the Molten War.
 - **Mysterious resistance:** Rumors persist of an enclave of former citizens who avoided corruption. Discovering them could reveal forgotten histories—or trigger lingering traps.
 
+- **Explore the wastes:** See [[New Solar Republic Wastes]] for further detail on the region's new horrors.
+
