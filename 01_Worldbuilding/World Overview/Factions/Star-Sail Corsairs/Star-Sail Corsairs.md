@@ -1,25 +1,25 @@
 # Star‑Sail Corsairs
 
-**Flagship:** *The Wandering Zephyr*
-**Captain:** \[\[Captain Lyffon "Sky-Strider"]]
-**Home‑port:** Roaming \[\[Bad Lands]] sky‑isles
+**Flagship:** *[[The Wandering Zephyr]]*
+**Captain:** [[Captain Sky‑Strider]]
+**Home‑port:** Roaming [[Bad Lands]] sky‑isles
 **Motive:** Unearth ancient relics & lucrative bounties
-**Known Bounties:** Posted across \[\[United Mortal Pact]] ports
+**Known Bounties:** Posted across [[United Mortal Pact]] ports
 
 Formed by Captain Lyffon from wanderers and exiles, the Corsairs sweep the Bad Lands in search of lost secrets and treasure. Their eclectic crew nods to legendary pirate tropes while embracing the unique dangers of the Shattered Isles.
 
 ## Crew Roster
 
-* \[\[Captain Lyffon "Sky-Strider"]]
-* \[\[Swords-Ace "Sable Edge" Zorin]]
-* \[\[Navigator Nalara "Storm-Chart"]]
-* \[\[Trick-Shooter "Long-Eye" Ussik]]
-* \[\[Chef Sanqir "Ember-Chef"]]
-* \[\[Healer Coppin "Mend-Paw"]]
-* \[\[Archaeologist Rowena "Glyph-Shade"]]
-* \[\[Shipwright Frankeel "Iron-Wake"]]
-* \[\[Bard Bruk "Soul-Chord"]]
-* \[\[Helmsman Jinba "Tide-Helm"]]
+* [[Captain Sky‑Strider]]
+* [[Sable Edge Zorin]]
+* [[Storm-Chart Nalara]]
+* [[Long-Eye Ussik]]
+* [[Ember‑Chef Sanqir]]
+* [[Mend-Paw]]
+* [[Glyph‑Shade Rowena]]
+* [[Iron-Wake Frankeel]]
+* [[Soul‑Chord Bruk]]
+* [[Tide-Helm Jinba]]
 
 ## Adventure Hooks
 

@@ -15,6 +15,6 @@ Severin Vermund rose from corsair origins to unite the isles' scattered armadas.
 - Forge pacts with independent skyship captains
 
 ## Allies & Foes
-- Often consults with [[Captain Lyffon 'Sky-Strider']] of the [[Star-Sail Corsairs]]
+- Often consults with [[Captain Sky‑Strider]] of the [[Star-Sail Corsairs]]
 - Resents interference from mainland merchants demanding tighter control
 
