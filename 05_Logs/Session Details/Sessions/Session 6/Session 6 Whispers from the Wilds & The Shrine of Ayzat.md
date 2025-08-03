@@ -1,45 +1,61 @@
-## Session 6: Whispers from the Wilds & The Shrine of Ayzat #session_plan #shatteredisles
+## Session 6: Whispers from the Wilds & The Shrine of Ayzat #session_plan #shatteredisles
 
-### 1. Recap of Previous Session
+### Current Situation
+The [[Unexpected Company]] bask in brief respite within [[Magda]] after cleansing the [[Garden of Bones Shrine]]. [[Eldar Grelamin]] carries the smoldering [[Molten Hearthstone]] bound to a rod of zenithite; its whispers sharpen and the air grows hotter each day. [[Hallar]] and [[Skarhn Runefall]] still glow with [[Nerrath's Moonlit Favor]], while rumors of spark‑shifters and hostile beasts spread among farmers. [[Ashqua]]'s command drives the party south to the hidden [[Shrine of Ayzat]] and the wilds beyond town.
 
-The party dubbed [[Unexpected Company]] returned from the [[Garden of Bones Shrine]] beneath [Magda](obsidian://open?file=01_Worldbuilding%2FWorld%20Overview%2FSetting%20%26%20Cosmology%2FGeography%2FGeala%C3%AD%20Enclave%2FIslands%2FCr%C3%ADoch%20Skolvar%2FTowns%2FMagda%2FMagda.md), having defeated a juvenile [[Young Spiderdragon]] and encountered the divine power of [Ashqua](obsidian://open?file=01_Worldbuilding%2FWorld%20Overview%2FPantheon%20%26%20Deities%2FAshqua.md) through Monk [Eldar Grelamin](obsidian://open?file=02_Characters%2FParty%2FPlayer%20Characters%2FEldar%20Grelamin.md). Eldar received a boon allowing ranged unarmed strikes, while also being tasked with finding the shrine of High Priestess [Ayzat](obsidian://open?file=02_Characters%2FNPCs%2FAyzat.md). They learned that mutated creatures and erratic animal behavior are plaguing the Galali Enclave. The party divvied up 2550 gp and decided to investigate both the strange animal behavior _and_ seek out the shrine.
+### Session Goals
+- Track the source of corrupted wildlife and spark‑shifter migrations.
+- Navigate the Whispering Wilds and uncover the entrance to the [[Shrine of Ayzat]].
+- Decide how to handle the searing influence of the [[Molten Hearthstone]].
+- Hint at looming powers drawn by either [[Ashqua]] or the land’s festering corruption.
 
-### 2. Narrative Goals for This Session
+### Scene Breakdown
+1. **Ashqua's Echoes in Magda** — *20 min*  
+   - **Setup:** At dawn the heartstone flares, setting a stable on the edge of town ablaze. Stone Speaker [[Hemlock]] and [[Borin Stonehelm]] plead for aid while whispers promise Eldar greater power.  
+   - **Hazards:** spreading fire, frightened root drakes, heartstone whispers tempting PCs to unleash it.  
+   - **Skill Checks:** Wisdom save DC 13 vs whispers; Athletics/Animal Handling DC 12 to calm or restrain beasts; Persuasion DC 12 to soothe panicked townsfolk.  
+   - **Options:**  
+     - *Roleplay:* earn Hemlock’s trust by revealing the heartstone or hide it and deflect blame.  
+     - *Combat:* if ignored, a corrupted drake bursts free (use giant lizard stat block with fire damage).
 
-- **Investigate the source of the escalating unrest among wildlife:** Determine what is causing animals to become aggressive and spark-shifters to swarm south.
-- **Locate the hidden shrine of High Priestess [Ayzat](obsidian://open?file=02_Characters%2FNPCs%2FAyzat.md)**: Follow clues from [Ashqua](obsidian://open?file=01_Worldbuilding%2FWorld%20Overview%2FPantheon%20%26%20Deities%2FAshqua.md)’s message and navigate the terrain south of [Magda](obsidian://open?file=01_Worldbuilding%2FWorld%20Overview%2FSetting%20%26%20Cosmology%2FGeography%2FGeala%C3%AD%20Enclave%2FIslands%2FCr%C3%ADoch%20Skolvar%2FTowns%2FMagda%2FMagda.md).
-- **Uncover initial lore about [Ayzat](obsidian://open?file=02_Characters%2FNPCs%2FAyzat.md) and her connection to [Ashqua](obsidian://open?file=01_Worldbuilding%2FWorld%20Overview%2FPantheon%20%26%20Deities%2FAshqua.md):** Begin to understand the history behind these powerful figures.
-- **Introduce a new threat/complication:** Hint at a larger, looming danger connected to the corrupted energies affecting the region.
+2. **Whispering Wilds Trek** — *30 min*  
+   - **Setup:** Following Farmer [[Tim]]’s map, the party enters forested ravines where voices echo their doubts. The canopy distorts time; shadows lengthen unnaturally.  
+   - **Hazards:** spark‑shifter swarm (treat as *swarm of insects* with lightning), patches of hallucinogenic shimmer shrooms, unstable terrain.  
+   - **Skill Checks:** Group Survival DC 14 to stay on course; Perception DC 15 to notice illusory paths; Dexterity save DC 13 against lightning bursts.  
+   - **Options:**  
+     - *Roleplay:* Lucky senses a thrum of pain from the land—calming an animal with *Speak with Animals* reveals it “hungers for the sun.”  
+     - *Combat:* three corrupted boars (CR 1/2) charge; the party may subdue to learn more or slay them to harvest tusks.
 
-### 3. Key Locations
+3. **Whistletooth's Bargain** — *20 min*  
+   - **Setup:** The hermit [[Whistletooth]] steps from a tree hollow, antlers woven with chimes. He demands a rare herb or a drop of heartstone magma for guidance.  
+   - **Hazards:** he commands minor fey; refusing him may summon thorny vines (treat as *entangle*).  
+   - **Skill Checks:** Persuasion or Intimidation DC 14 to negotiate; Nature DC 13 to identify the silverleaf herb he wants; Insight DC 12 to sense his fear of the shrine.  
+   - **Options:**  
+     - *Roleplay:* trade goods and gain a sketch map of the Gazaleth cliffs, plus a whispered warning: “Regret walks before the blade.”  
+     - *Combat:* attacking him calls two **spectral regrets** (use *specter* stats) that feed on sorrow.
 
-- **[Magda](obsidian://open?file=01_Worldbuilding%2FWorld%20Overview%2FSetting%20%26%20Cosmology%2FGeography%2FGeala%C3%AD%20Enclave%2FIslands%2FCr%C3%ADoch%20Skolvar%2FTowns%2FMagda%2FMagda.md):** Starting point for the session; opportunity for final preparations and gathering information from NPCs.
-- **The Whispering Woods:** A dense forest south of [Magda](obsidian://open?file=01_Worldbuilding%2FWorld%20Overview%2FSetting%20%26%20Cosmology%2FGeography%2FGeala%C3%AD%20Enclave%2FIslands%2FCr%C3%ADoch%20Skolvar%2FTowns%2FMagda%2FMagda.md), known for its strange acoustics and unsettling atmosphere. This is where the initial investigation into animal behavior begins. [#forest](app://obsidian.md/index.html#forest) [#exploration](app://obsidian.md/index.html#exploration)
-- **Gazaleth Outskirts:** Rugged, rocky terrain surrounding the rumored location of [Ayzat](obsidian://open?file=02_Characters%2FNPCs%2FAyzat.md)’s shrine. Difficult to navigate, with hidden paths and potential dangers. [#terrain](app://obsidian.md/index.html#terrain) [#questlocation](app://obsidian.md/index.html#questlocation)
-- **[Hidden Shrine of High Priestess Ayzat](app://obsidian.md/Hidden%20Shrine%20of%20High%20Priestess%20Ayzat):** A secluded shrine built into a cliff face, containing clues about [Ayzat](obsidian://open?file=02_Characters%2FNPCs%2FAyzat.md)'s past and the events leading up to [The Eclipse Wars](obsidian://open?file=01_Worldbuilding%2FHistory%2FThe%20Eclipse%20Wars.md). [#shrine](app://obsidian.md/index.html#shrine) [#lore](app://obsidian.md/index.html#lore)
+4. **Threshold of the Shrine** — *40 min*  
+   - **Setup:** Jagged Gazaleth cliffs rise ahead; a waterfall veils a stone arch etched with sun‑and‑moon sigils. The air hums and moments slip—each step may skip or repeat time.  
+   - **Hazards:** slick rocks (Athletics/Acrobatics DC 13), time‑distortion (Wisdom save DC 14 or lose/gain 1 round), guardian spirits of regret.  
+   - **Skill Checks:** Religion or Arcana DC 15 to align runes; Investigation DC 12 to spot a hidden lever behind the falls.  
+   - **Options:**  
+     - *Roleplay:* offering a memory or treasured item pacifies the spirits, granting safe entry.  
+     - *Combat:* two **regret wraiths** (use *wight* without weapons) emerge if runes are disturbed.  
+     - *Exploration:* solving the puzzle reveals a passage and a glimpse of a statue clutching a real blade bathed in moonlight.
 
-### 4. Encounter Ideas
+### Object Lore & Leads
+- **Corrupted Boar Tusks:** still warm with zenithite taint; may be forged into fire‑resistant tools.  
+- **Whistletooth's Sketch Map:** points toward hidden alcoves; marked with symbols resembling Ashqua’s sigil.  
+- **Chrono Bloom Seeds:** fragile flowers near the shrine that open only when both sun and moonlight touch them—useful for divination or time magic.  
+- **Ayzat's Sun‑Steel Blade:** glimpsed within the shrine; said to sever corruption yet risks drawing [[Ashqua]]'s direct gaze.
 
-- **Social: Gathering Information in Magda:** Begin at [Dragon’s Rest](app://obsidian.md/Dragon%E2%80%99s%20Rest), questioning [Borin Stonehelm](app://obsidian.md/Borin%20Stonehelm) and [Evelyn Stonehelm](app://obsidian.md/Evelyn%20Stonehelm) about recent animal behavior. Borin recalls increased aggression among the root drakes, while Evelyn mentions strange humming sounds coming from the woods. (DC 12 Charisma check to gain useful information).
-- **Exploration: Investigating Disturbed Farms:** The party visits Farmer Tim’s farm, finding trampled crops and signs of panicked animals. A successful Wisdom (Survival) check reveals unusual tracks – not just animal prints, but also faint impressions resembling claw marks. [#exploration](app://obsidian.md/index.html#exploration) [#survival](app://obsidian.md/index.html#survival)
-- **Combat: Corrupted Boars in the Whispering Woods:** Following the tracks leads to a clearing where three mutated boars attack. These boars exhibit glowing red eyes and emit a low growl. (CR 1/2 each; emphasize their aggressive behavior).
-    - **Tactical Note**: Encourage players to use terrain to their advantage, given Hallar’s tanking ability and Derrik's stealth capabilities.
-- **Social: Hermit’s Warning:** Deeper in the woods, the party encounters [[Whistletooth]] (not the innkeeper), a reclusive hermit who warns them about the shrine being guarded by “spirits of regret” and that the land itself resists intrusion. He demands a rare herb as payment for information. [#social](app://obsidian.md/index.html#social) [#npc](app://obsidian.md/index.html#npc)
-- **Exploration: Navigating Gazaleth:** The terrain becomes increasingly difficult, requiring successful Strength (Athletics) or Dexterity (Acrobatics) checks to traverse rocky cliffs and dense vegetation. A failed check results in minor injuries or delays.
-- **Discovery: Shrine Entrance:** After overcoming the challenges of Gazaleth, the party discovers a hidden entrance to [Hidden Shrine of High Priestess Ayzat](app://obsidian.md/Hidden%20Shrine%20of%20High%20Priestess%20Ayzat), concealed behind a waterfall. [#discovery](app://obsidian.md/index.html#discovery)
+### Closing Roleplay Questions
+- What whisper from the wilds unsettled you most, and why?  
+- How do the blessings of [[Ashqua]] or [[Nerrath]] influence your choices as you near the shrine?  
+- What are you willing to sacrifice to cleanse the corruption spreading from the [[Molten Hearthstone]]?
 
-### 5. Clues & Lore
+### Aftermath
+- Cleansing or exploiting the heartstone will alter Magda’s fate—contain it and wildlife calms, unleash it and Ashqua’s zealots may arrive.  
+- Securing Whistletooth’s aid earns an ally; spurning him turns the hermit into a future obstacle who spreads rumors about the party.  
+- Opening the shrine invites visions of the Eclipse Wars and may accelerate the spark‑shifter migration, setting the stage for larger regional threats.
 
-- **Boar Mutations**: The mutated boars exhibit signs of exposure to corrupted energy – glowing eyes and aggressive behavior. This suggests a source of corruption within the woods.
-- **Hermit’s Prophecy:** [[Whistletooth]] speaks in riddles, hinting that the shrine is protected by spirits bound to regret and that disturbing it will awaken ancient powers.
-- **Shrine Inscriptions**: The entrance to the shrine is inscribed with archaic runes detailing [Ayzat](obsidian://open?file=02_Characters%2FNPCs%2FAyzat.md)'s devotion to both sun and moon, suggesting a complex relationship with divine forces.
-
-### 6. Player Character Hooks
-
-- **Eldar Grelamin:** As the recipient of Ashqua’s boon, Eldar may experience unsettling visions or dreams related to the shrine and its history.
-- **Lucky Folais:** Lucky's connection to nature allows him to sense the growing corruption within the woods, potentially leading to insights about its source.
-- **Skarhn Runefall**: Skarhn’s past life may hold clues about the ancient rituals performed at the shrine and the forces that protect it.
-
-### 7. Session End & Cliffhanger
-
-The session ends with the party standing before the entrance to [Hidden Shrine of High Priestess Ayzat](app://obsidian.md/Hidden%20Shrine%20of%20High%20Priestess%20Ayzat). As they prepare to enter, a faint humming sound fills the air, and the ground beneath their feet begins to tremble. A distant roar echoes through the woods, hinting at a larger threat lurking nearby.
